@@ -1,6 +1,7 @@
 [
   {
     "carId": "07044674-bf3f-4605-b92b-f6a0049aca16",
+    "vin": "W4VGK9DD4MPS2T9V",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -35,10 +36,12 @@
     "photos": [
       "https://turbo.azstatic.com/uploads/full/2023%2F07%2F01%2F00%2F40%2F44%2F9419cfea-dbaa-4313-8e29-c0d9256de14e%2F79842_J_F3UjWdL6sSARWeruq_gQ.jpg",
       "https://turbo.azstatic.com/uploads/full/2023%2F07%2F01%2F00%2F40%2F45%2F58aceddc-1db2-42d1-a9b7-889cd7528d26%2F79817_I7I4MGMVyScfmpNw18wRcg.jpg",
-      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F01%2F00%2F40%2F44%2F00137a00-077e-4ad8-b9de-92dff0375e4c%2F93350_NNR0mFJkpCYml3CS9hPz8g.jpg"]
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F01%2F00%2F40%2F44%2F00137a00-077e-4ad8-b9de-92dff0375e4c%2F93350_NNR0mFJkpCYml3CS9hPz8g.jpg"
+    ]
   },
   {
     "carId": "7f265f84-2b4e-4e6a-b934-9e469cd8d466",
+    "vin": "KLS8W1KV4TYLV55F",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r"
     ],
@@ -71,6 +74,7 @@
   },
   {
     "carId": "fbc6e679-a3b8-4df5-8c60-0ac9f5ffba3f",
+    "vin": "SPSW5BATTM7SLSUU",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r"
     ],
@@ -103,6 +107,7 @@
   },
   {
     "carId": "ce02737d-063a-431b-aaad-261a042efab2",
+    "vin": "PFZXNMFG6JVXBXZN",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r"
     ],
@@ -135,6 +140,7 @@
   },
   {
     "carId": "6a84f8c5-622f-408c-a2a5-3b3d163c2571",
+    "vin": "CYCN8GHZXDFAXLUX",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r"
     ],
@@ -167,6 +173,7 @@
   },
   {
     "carId": "7934cbb8-5cd4-49f5-846c-e54fe0d1140a",
+    "vin": "BNH7NUDPJ8ZCK1YY",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r"
     ],
@@ -191,12 +198,15 @@
     },
     "engineVolume": "50 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F14%2F26%2F47%2Fcdb8801d-d8c5-4eb5-a424-a00a6187501b%2F35660_6vGsrjCQc3nsipbcdOW2bQ.jpg",
-     "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F14%2F26%2F47%2Fa64d10b9-d923-41c7-9214-6e0c55a26e76%2F86708_E7-zCrh95bdV8K6QWQTf1A.jpg",
-    "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F14%2F26%2F51%2Fca8f836c-9712-49a1-8103-4810841c44e7%2F86725_Ajbj3zSCvs2lXpGqUE50jw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F14%2F26%2F47%2Fcdb8801d-d8c5-4eb5-a424-a00a6187501b%2F35660_6vGsrjCQc3nsipbcdOW2bQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F14%2F26%2F47%2Fa64d10b9-d923-41c7-9214-6e0c55a26e76%2F86708_E7-zCrh95bdV8K6QWQTf1A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F14%2F26%2F51%2Fca8f836c-9712-49a1-8103-4810841c44e7%2F86725_Ajbj3zSCvs2lXpGqUE50jw.jpg"
+    ]
   },
   {
     "carId": "9a0b4359-86a5-4569-9c92-778c79f8c018",
+    "vin": "LP3LY4SDA0E663XC",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r"
     ],
@@ -221,12 +231,15 @@
     },
     "engineVolume": "800 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F21%2F45%2F45%2Ff35c0d49-3378-4f66-b445-a6f8f2413b47%2F40090_3vzhLzJo29Y1kuuEva0zfA.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F21%2F45%2F22%2F47dc7601-aca3-47d6-9181-29eaa1135d5a%2F40112_4_hC5V8rru6ugzR-NNP_Aw.jpg",
-        "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F21%2F45%2F21%2F52de5b66-6f72-45d2-a18a-ffbe72e0f745%2F21109_V1TsPvNcs2hfYhrzD1WFRQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F21%2F45%2F45%2Ff35c0d49-3378-4f66-b445-a6f8f2413b47%2F40090_3vzhLzJo29Y1kuuEva0zfA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F21%2F45%2F22%2F47dc7601-aca3-47d6-9181-29eaa1135d5a%2F40112_4_hC5V8rru6ugzR-NNP_Aw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F21%2F45%2F21%2F52de5b66-6f72-45d2-a18a-ffbe72e0f745%2F21109_V1TsPvNcs2hfYhrzD1WFRQ.jpg"
+    ]
   },
   {
     "carId": "a78693c2-ddd3-43f5-8f6a-59fb7c1ec764",
+    "vin": "Z33B9KXLMGEVDX4S",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -257,13 +270,16 @@
     },
     "engineVolume": "1400 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F48%2F4e00f083-9fe6-49fb-930e-d130213b7953%2F21047_1bfyFMJhg_jos4aTFtojAA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F48%2Fa3ff7797-f461-42db-8f42-041b86a39f4c%2F65674_SSmRBrjS2FOwQmDoDF0goA.jpg",
-             "https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F48%2F3c7aed5a-a464-44ba-84d9-ec801d7de616%2F21130_sU5d4oj-gnwBmXQlzlbokA.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F50%2Fbfd63029-31f5-465c-a0ee-1d3c6734c07b%2F21107_ZailnwFe19pjYjKCgTipjw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F48%2F4e00f083-9fe6-49fb-930e-d130213b7953%2F21047_1bfyFMJhg_jos4aTFtojAA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F48%2Fa3ff7797-f461-42db-8f42-041b86a39f4c%2F65674_SSmRBrjS2FOwQmDoDF0goA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F48%2F3c7aed5a-a464-44ba-84d9-ec801d7de616%2F21130_sU5d4oj-gnwBmXQlzlbokA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F04%2F16%2F37%2F50%2Fbfd63029-31f5-465c-a0ee-1d3c6734c07b%2F21107_ZailnwFe19pjYjKCgTipjw.jpg"
+    ]
   },
   {
     "carId": "2b925b79-d15b-4e46-9b75-ff775851ef84",
+    "vin": "9EF5K1AF7GGZ2E8R",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -296,13 +312,16 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2F7a21d321-b837-4b11-8edf-f3445571ba24%2F31279_Ot8D9rIEq6a8__adXRMKaQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2Fd32e9ceb-c8e2-49ad-96cc-d70865af1dfd%2F31278_V5nSVUHPbZsvd71skYMOZw.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2F9530a05e-0569-4e15-909b-6e9803b1b9e4%2F31246_jU0seVDUF7tvzuXu8AKPqw.jpg",
-          "https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2Fc3fdea55-d7cc-4811-92c4-f6054f5446ac%2F31269_j2kLcZroeXsxGpPPRl27aw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2F7a21d321-b837-4b11-8edf-f3445571ba24%2F31279_Ot8D9rIEq6a8__adXRMKaQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2Fd32e9ceb-c8e2-49ad-96cc-d70865af1dfd%2F31278_V5nSVUHPbZsvd71skYMOZw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2F9530a05e-0569-4e15-909b-6e9803b1b9e4%2F31246_jU0seVDUF7tvzuXu8AKPqw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F05%2F16%2F34%2F28%2Fc3fdea55-d7cc-4811-92c4-f6054f5446ac%2F31269_j2kLcZroeXsxGpPPRl27aw.jpg"
+    ]
   },
   {
     "carId": "167e63e4-5ec8-4248-9367-c3eb03e54d3a",
+    "vin": "F2LMD77ZRF4BAFLJ",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -336,12 +355,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F17%2F51%2F05%2F03a3b3c0-b735-41b1-8784-b85510aff2d0%2F40032_F6VjLPHdFR0vgvWgDdUOPA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F17%2F54%2F38%2F2dd7505d-2b1f-4a08-81ef-8a1afd92d0ab%2F40057_uPTF21GyIRUID_ofZuT-Cw.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F17%2F54%2F38%2Fe3ccbd53-1303-4f0f-9ef8-7c8e1fea4189%2F40027_QFM1LqoaaTSz5xlO7oYv3A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F17%2F51%2F05%2F03a3b3c0-b735-41b1-8784-b85510aff2d0%2F40032_F6VjLPHdFR0vgvWgDdUOPA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F17%2F54%2F38%2F2dd7505d-2b1f-4a08-81ef-8a1afd92d0ab%2F40057_uPTF21GyIRUID_ofZuT-Cw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F17%2F54%2F38%2Fe3ccbd53-1303-4f0f-9ef8-7c8e1fea4189%2F40027_QFM1LqoaaTSz5xlO7oYv3A.jpg"
+    ]
   },
   {
     "carId": "71d3fdb2-97d9-4840-a533-1188cb5b4716",
+    "vin": "8D5PRC9FJWP4NBWE",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -374,13 +396,16 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F32%2F04c61ef6-55be-43cd-b886-4f522116afc2%2F82014_qMu7IvkxnhKVu6XUOsx3hg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F52%2F001c090d-a2af-425e-8e43-5d1db3f5b7b9%2F40030_t2XObncd-qTUbbonKE9ehw.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F52%2F00ff32ae-d063-4613-a6ad-f46a75f26cd8%2F40053_8_sFExXUVzHKOrBtK_O2OA.jpg",
-          "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F26%2Fbd5f4cec-0ed3-4db7-8cff-b9bea06cc962%2F35472_M6j4p4e8SMqjBtFVY2mCPw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F32%2F04c61ef6-55be-43cd-b886-4f522116afc2%2F82014_qMu7IvkxnhKVu6XUOsx3hg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F52%2F001c090d-a2af-425e-8e43-5d1db3f5b7b9%2F40030_t2XObncd-qTUbbonKE9ehw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F52%2F00ff32ae-d063-4613-a6ad-f46a75f26cd8%2F40053_8_sFExXUVzHKOrBtK_O2OA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F18%2F10%2F26%2Fbd5f4cec-0ed3-4db7-8cff-b9bea06cc962%2F35472_M6j4p4e8SMqjBtFVY2mCPw.jpg"
+    ]
   },
   {
     "carId": "08c539f4-7213-409e-a310-c38c99378fba",
+    "vin": "GALA92V7H6USYA2R",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -409,13 +434,16 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F25%2F97cd1730-59c9-46de-b356-e0dee64b1de0%2F40058_uHkK8mkH-oSk8rNebF_Vxw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F15%2F2b9d88da-1fd6-422a-b7a1-a7043a420075%2F40071_Cu3DID-5H3ZGSCKia_av_g.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F11%2Fb46e9088-6f71-44da-b4d3-32a85d2710c2%2F40023_iOYk_E4ZpALONN-HpzHq7Q.jpg",
-          "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F23%2Fb795b69b-4ce2-4ca1-9f84-b3b1301c58b6%2F40048_l4bGUvWNxJHxGRy09hpSkQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F25%2F97cd1730-59c9-46de-b356-e0dee64b1de0%2F40058_uHkK8mkH-oSk8rNebF_Vxw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F15%2F2b9d88da-1fd6-422a-b7a1-a7043a420075%2F40071_Cu3DID-5H3ZGSCKia_av_g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F11%2Fb46e9088-6f71-44da-b4d3-32a85d2710c2%2F40023_iOYk_E4ZpALONN-HpzHq7Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F11%2F37%2F23%2Fb795b69b-4ce2-4ca1-9f84-b3b1301c58b6%2F40048_l4bGUvWNxJHxGRy09hpSkQ.jpg"
+    ]
   },
   {
     "carId": "57bace5c-fef0-48f8-8913-a1018a2c3418",
+    "vin": "5373LPEN2YW8WWK1",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -447,12 +475,15 @@
     },
     "engineVolume": "2800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F22%2F14%2F46%2F8a80e96e-fc22-481c-aef1-8ba96b7dfe3d%2F40070_GpkVqPnUfNDkymQSnj_3Mg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F22%2F15%2F06%2Fc3014b44-aee8-43f0-a799-c9420fae8c4c%2F40113_IflZqgz3yRb3TM4t66s77g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F22%2F15%2F09%2F579bf6f0-cb51-416a-9fb3-840d635a410a%2F40071_OFDB6qRNZ9gcM9x4SxFMXg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F22%2F14%2F46%2F8a80e96e-fc22-481c-aef1-8ba96b7dfe3d%2F40070_GpkVqPnUfNDkymQSnj_3Mg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F22%2F15%2F06%2Fc3014b44-aee8-43f0-a799-c9420fae8c4c%2F40113_IflZqgz3yRb3TM4t66s77g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F22%2F15%2F09%2F579bf6f0-cb51-416a-9fb3-840d635a410a%2F40071_OFDB6qRNZ9gcM9x4SxFMXg.jpg"
+    ]
   },
   {
     "carId": "e90a99c3-d145-459f-9a3d-9c0c3973bb2f",
+    "vin": "DNBXLXUC33VDEUZZ",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -486,12 +517,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F16%2F29%2F24%2F00258a15-9d7e-4466-a0cd-3d32ab50e352%2F82139_bQSowAnoLs03yg4C3zKLLQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F16%2F29%2F20%2F2076a10b-2f17-40e0-b2e8-bc37a28996d7%2F35456_135FCBn5w02XAa5aAhlbHQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F16%2F29%2F25%2F4202077d-edc8-48b1-972e-ccfce4e260a5%2F35431_j7Y5oVfHefVPoJBhpR4X7A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F16%2F29%2F24%2F00258a15-9d7e-4466-a0cd-3d32ab50e352%2F82139_bQSowAnoLs03yg4C3zKLLQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F16%2F29%2F20%2F2076a10b-2f17-40e0-b2e8-bc37a28996d7%2F35456_135FCBn5w02XAa5aAhlbHQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F16%2F29%2F25%2F4202077d-edc8-48b1-972e-ccfce4e260a5%2F35431_j7Y5oVfHefVPoJBhpR4X7A.jpg"
+    ]
   },
   {
     "carId": "627345f7-a72d-4dff-9541-eafafcad257b",
+    "vin": "0RCVT23ZMMFUFV4R",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -520,12 +554,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F20%2F37%2F2d880f58-25cf-4b0f-a315-6d7e014bcd09%2F35486_QCwX8joLfIi11aU-JZfw1w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F20%2F38%2F2e97f513-0507-4279-a398-7e886dbc0519%2F35502_RlzSvvnDIdh8ac4Ivycu7w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F20%2F38%2F659fb4b5-3bb1-400f-92fe-11ed501187d3%2F35466_dgRifEeMWKnssgk7D6VKjw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F20%2F37%2F2d880f58-25cf-4b0f-a315-6d7e014bcd09%2F35486_QCwX8joLfIi11aU-JZfw1w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F20%2F38%2F2e97f513-0507-4279-a398-7e886dbc0519%2F35502_RlzSvvnDIdh8ac4Ivycu7w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F20%2F38%2F659fb4b5-3bb1-400f-92fe-11ed501187d3%2F35466_dgRifEeMWKnssgk7D6VKjw.jpg"
+    ]
   },
   {
     "carId": "5a052ea0-5dea-4442-9004-384d2840d609",
+    "vin": "RVM9N3TGVM35HPN1",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -557,12 +594,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F05%2F30%2F16%2F02%2F54%2F6c2b6167-e8fd-4bf3-a545-6b5c228153ac%2F52853_m0xDbsAYFers0vvksIGPIg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F30%2F16%2F03%2F00%2F3f67f50a-b6d7-4d3f-821c-b54552631957%2F77268_IZ-sv0R9PGCLVSUu7daplQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F30%2F16%2F02%2F45%2F92333f00-f521-4b1c-9975-6837555863d4%2F52871_VERfrXw6G4W59vLH6jG6xg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F30%2F16%2F02%2F54%2F6c2b6167-e8fd-4bf3-a545-6b5c228153ac%2F52853_m0xDbsAYFers0vvksIGPIg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F30%2F16%2F03%2F00%2F3f67f50a-b6d7-4d3f-821c-b54552631957%2F77268_IZ-sv0R9PGCLVSUu7daplQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F30%2F16%2F02%2F45%2F92333f00-f521-4b1c-9975-6837555863d4%2F52871_VERfrXw6G4W59vLH6jG6xg.jpg"
+    ]
   },
   {
     "carId": "6408a13d-3641-4ee8-aaae-251220bc6157",
+    "vin": "RWVGLUS2XR5A6K20",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -594,13 +634,16 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F24%2F6d0732c4-3ada-4b7c-969b-49ea33da179f%2F35460_GhKICpUD2DrfY0h7Yyw-Ug.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F38%2Fbbc510ce-1c69-4a0d-9b6f-8215ee433bc6%2F40019_cz5kFnNqztqXrxceJYIh0w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F38%2F685415c5-35ed-450c-9178-69c38355ab01%2F40049_9xRfl4px8PJHMXrJZrtLQA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F23%2Fdd9744ee-8e51-4ef6-9d09-331170a982ff%2F35460_FiySjk-Naa_Oi0IHexDRjw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F24%2F6d0732c4-3ada-4b7c-969b-49ea33da179f%2F35460_GhKICpUD2DrfY0h7Yyw-Ug.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F38%2Fbbc510ce-1c69-4a0d-9b6f-8215ee433bc6%2F40019_cz5kFnNqztqXrxceJYIh0w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F38%2F685415c5-35ed-450c-9178-69c38355ab01%2F40049_9xRfl4px8PJHMXrJZrtLQA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F22%2F20%2F23%2Fdd9744ee-8e51-4ef6-9d09-331170a982ff%2F35460_FiySjk-Naa_Oi0IHexDRjw.jpg"
+    ]
   },
   {
     "carId": "e57580ed-8713-44c0-bb74-b3e5bfe7bb2e",
+    "vin": "SKYL0PZ27TJ19R5Z",
     "attributes": [
       "ABS",
       "Lyuk",
@@ -628,12 +671,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F19%2F50%2F16%2Faf1bc0c8-87af-4982-a0ed-da65a338335e%2F35493_L2AmhpQcx_o5fW-MAuUJtQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F19%2F50%2F34%2F9b8f2e29-60f5-45b9-b3b7-e593f8f524a7%2F40047_eEt-4gj9mkDlLyIL8VOAvA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F19%2F50%2F21%2F71dd054d-f24e-4586-bd82-5b29dcc7176a%2F35431_6E6GcN65XsDO0YwYwEKSWA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F19%2F50%2F16%2Faf1bc0c8-87af-4982-a0ed-da65a338335e%2F35493_L2AmhpQcx_o5fW-MAuUJtQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F19%2F50%2F34%2F9b8f2e29-60f5-45b9-b3b7-e593f8f524a7%2F40047_eEt-4gj9mkDlLyIL8VOAvA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F19%2F50%2F21%2F71dd054d-f24e-4586-bd82-5b29dcc7176a%2F35431_6E6GcN65XsDO0YwYwEKSWA.jpg"
+    ]
   },
   {
     "carId": "c4889afc-ef1f-4d42-a6be-b5c7e6123e51",
+    "vin": "9P25NDSAANC4Z743",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -664,12 +710,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F20%2F09%2F41%2Ff547f011-3f19-4d73-9674-a2b1a63bf96c%2F35490_2vvALbDPQJM4lK3-kEy67Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F20%2F10%2F02%2Fe8182775-c29e-4cf6-83f1-52bfe2f443c1%2F35494_lglsfJobHdmkqJtyL152yQ.jpg",
-                "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F20%2F10%2F01%2Fd4f46d80-50b3-4bfd-8d81-700a9a33fc6d%2F35442_a45h6jFrPzCgeFwuR8DmKQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F20%2F09%2F41%2Ff547f011-3f19-4d73-9674-a2b1a63bf96c%2F35490_2vvALbDPQJM4lK3-kEy67Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F20%2F10%2F02%2Fe8182775-c29e-4cf6-83f1-52bfe2f443c1%2F35494_lglsfJobHdmkqJtyL152yQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F20%2F10%2F01%2Fd4f46d80-50b3-4bfd-8d81-700a9a33fc6d%2F35442_a45h6jFrPzCgeFwuR8DmKQ.jpg"
+    ]
   },
   {
     "carId": "2e2d62d7-9273-45dc-8141-1bd9c3a42edb",
+    "vin": "JH7FCT6CJ6PPG75T",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -699,13 +748,16 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F31%2F245d9a70-d80f-4f9a-a589-c014c2a4dea7%2F93347_nMsrISR2Ekf5qfVXfXpJ9w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F16%2F7ab17b12-b635-4662-be14-82bfe8188a39%2F79792_kBgWmzWZk3xV9mOvC6Tu-w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F18%2Ffce61517-8567-467c-8311-08f832f50cf7%2F93340_CFdMK9sKrgDW1nYqQeYjtg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F02%2F34be151c-ef8d-495f-a16d-290bb425f3d9%2F60359_MoSafPOYjqhyWxeWyg7BZA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F31%2F245d9a70-d80f-4f9a-a589-c014c2a4dea7%2F93347_nMsrISR2Ekf5qfVXfXpJ9w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F16%2F7ab17b12-b635-4662-be14-82bfe8188a39%2F79792_kBgWmzWZk3xV9mOvC6Tu-w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F18%2Ffce61517-8567-467c-8311-08f832f50cf7%2F93340_CFdMK9sKrgDW1nYqQeYjtg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F11%2F07%2F02%2F34be151c-ef8d-495f-a16d-290bb425f3d9%2F60359_MoSafPOYjqhyWxeWyg7BZA.jpg"
+    ]
   },
   {
     "carId": "bb3b98f3-d2e4-49fa-98f1-f9d01e7859b5",
+    "vin": "CU4XK8HJZCM23YUK",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -737,12 +789,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F01%2F17%2Fc575ef76-d55c-4428-a00b-af4920ae7f14%2F40068_ypT9uzao9DBO3-hCGddkBQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F01%2F16%2F4aff3b36-cc18-4a39-89d5-221d17e197b1%2F40011_9sUGPRD1fMDMWDixlTfkRw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F01%2F12%2Ff1022d2d-1361-42e1-9d35-15a59180e7af%2F35472_M0AU4UcxVYb89XXCTBlU3w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F01%2F17%2Fc575ef76-d55c-4428-a00b-af4920ae7f14%2F40068_ypT9uzao9DBO3-hCGddkBQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F01%2F16%2F4aff3b36-cc18-4a39-89d5-221d17e197b1%2F40011_9sUGPRD1fMDMWDixlTfkRw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F01%2F12%2Ff1022d2d-1361-42e1-9d35-15a59180e7af%2F35472_M0AU4UcxVYb89XXCTBlU3w.jpg"
+    ]
   },
   {
     "carId": "12e341f6-9568-4990-95ba-a78135011929",
+    "vin": "Y5JN5JTYYU0N7GBG",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -773,13 +828,16 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F51%2Fc49793ba-fa01-486f-86a2-488be96e5a8a%2F35467_a-fP8ZpvjVub4edILtJwJQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F52%2F4e270d6b-fedc-4834-ab5b-032a4f88c09f%2F35492_oPWCdeYlM9JLhZEewgqJ1g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F52%2F1d3ad589-1271-4bb4-b5a5-86ef5a2439d3%2F35463_vpwY8N_TLmqFAWkRuUGR2w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F51%2Ff0553dae-d4d3-4488-b2f8-1603b4ff76f0%2F35450_Glr_80WTNeQEkZvWrzRbEQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F51%2Fc49793ba-fa01-486f-86a2-488be96e5a8a%2F35467_a-fP8ZpvjVub4edILtJwJQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F52%2F4e270d6b-fedc-4834-ab5b-032a4f88c09f%2F35492_oPWCdeYlM9JLhZEewgqJ1g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F52%2F1d3ad589-1271-4bb4-b5a5-86ef5a2439d3%2F35463_vpwY8N_TLmqFAWkRuUGR2w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F21%2F24%2F51%2Ff0553dae-d4d3-4488-b2f8-1603b4ff76f0%2F35450_Glr_80WTNeQEkZvWrzRbEQ.jpg"
+    ]
   },
   {
     "carId": "16ef22fb-dc21-43f2-b3e3-3f0f7e676ddc",
+    "vin": "L1HJ53AH1Z9E9ZVH",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -808,12 +866,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F19%2F12%2F35%2Fd6ebc459-8537-4d6f-917e-b8d1a9355fd3%2F35469_7eQiMPqt4bfAc8y-rt91rw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F19%2F12%2F35%2Fd3eace1e-5b07-4572-8b44-838564f97088%2F35507_be5C1jhl3SCCU_fBFeJsMQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F19%2F12%2F35%2F22e7746d-4fac-4eb5-9cb3-c38d09037dda%2F35484_zpXyIgOiOs0GaYvxRV6Hrw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F19%2F12%2F35%2Fd6ebc459-8537-4d6f-917e-b8d1a9355fd3%2F35469_7eQiMPqt4bfAc8y-rt91rw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F19%2F12%2F35%2Fd3eace1e-5b07-4572-8b44-838564f97088%2F35507_be5C1jhl3SCCU_fBFeJsMQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F19%2F12%2F35%2F22e7746d-4fac-4eb5-9cb3-c38d09037dda%2F35484_zpXyIgOiOs0GaYvxRV6Hrw.jpg"
+    ]
   },
   {
     "carId": "58dacde2-4a99-40e5-91b7-751864dbdf38",
+    "vin": "2BRXEB4XZX2ALA5A",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -847,12 +908,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F01%2F58%2Fe51d9a8c-8a7c-472c-a57b-ae5caba8f1df%2F74270_RWN8ZFAPgtjJPz3NX0CuAw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F01%2F58%2F1a5dd701-46b2-4a50-abac-689edff901d7%2F74313_OLyQSO_W5fencK-uEj0YNg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F01%2F58%2Fd58c4afe-fdce-490a-8828-bbfa74119414%2F74258_MQaMiThubo9MZda0U5ghJQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F01%2F58%2Fe51d9a8c-8a7c-472c-a57b-ae5caba8f1df%2F74270_RWN8ZFAPgtjJPz3NX0CuAw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F01%2F58%2F1a5dd701-46b2-4a50-abac-689edff901d7%2F74313_OLyQSO_W5fencK-uEj0YNg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F01%2F58%2Fd58c4afe-fdce-490a-8828-bbfa74119414%2F74258_MQaMiThubo9MZda0U5ghJQ.jpg"
+    ]
   },
   {
     "carId": "e7a61b8b-2828-4418-bf9f-c5781451c258",
+    "vin": "1HHPRUM82K3UE3F0",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -887,13 +951,16 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F10%2F46%2F25f28ae6-e76d-4fb1-aa37-7503251056d0%2F60368_e6pvmnu0YG8K2gsvXGnPGA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F11%2F46%2F823cb47e-476a-4369-ba2c-73fa1e88a518%2F98853_e0HERzqENJjCnLsTithIQw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F10%2F46%2F1ae160c9-0915-45c0-ae76-33f0c6ad7290%2F60354_e4U1bL0Eo1gDvZawnEOG9w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F11%2F45%2Fce171a34-ce72-4970-a3fb-46a2137eb883%2F98871_i0_RQsLMUr7bZ_tvUTsheA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F10%2F46%2F25f28ae6-e76d-4fb1-aa37-7503251056d0%2F60368_e6pvmnu0YG8K2gsvXGnPGA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F11%2F46%2F823cb47e-476a-4369-ba2c-73fa1e88a518%2F98853_e0HERzqENJjCnLsTithIQw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F10%2F46%2F1ae160c9-0915-45c0-ae76-33f0c6ad7290%2F60354_e4U1bL0Eo1gDvZawnEOG9w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F29%2F19%2F11%2F45%2Fce171a34-ce72-4970-a3fb-46a2137eb883%2F98871_i0_RQsLMUr7bZ_tvUTsheA.jpg"
+    ]
   },
   {
     "carId": "d2d2c567-06eb-4a91-95db-f15e2da20d7e",
+    "vin": "FEZWU9XN3CS1D5HN",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -925,13 +992,16 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F10%2F5678caa0-79c0-411a-918d-c700a438b116%2F35432_B_kgchRmK16l4r4Y0HKTjQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F11%2F4334440b-7286-4272-bfed-699972c08180%2F35432_vb-0tipYWgYWedFsn0fUrw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F09%2Fe06deccf-29b2-49a8-84e7-3c0acfa08140%2F35499_JFrBoeFAEewbKowFXqa8uA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F11%2F6cebcbd6-104a-42cc-923c-01b33b91fb68%2F35507_oHSFNzOnXfJdV00Z7i648Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F10%2F5678caa0-79c0-411a-918d-c700a438b116%2F35432_B_kgchRmK16l4r4Y0HKTjQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F11%2F4334440b-7286-4272-bfed-699972c08180%2F35432_vb-0tipYWgYWedFsn0fUrw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F09%2Fe06deccf-29b2-49a8-84e7-3c0acfa08140%2F35499_JFrBoeFAEewbKowFXqa8uA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F23%2F01%2F11%2F6cebcbd6-104a-42cc-923c-01b33b91fb68%2F35507_oHSFNzOnXfJdV00Z7i648Q.jpg"
+    ]
   },
   {
     "carId": "3a7fea23-f646-442e-91bf-be24a781bf34",
+    "vin": "LPMSVDMD8NLLJTJS",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -965,13 +1035,16 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F12%2F6a765688-dcfd-4f2b-ab62-f00fa9c3143e%2F35464_-po6_PtyUj8vX7dbvBMylw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F49%2F289bb3d3-1235-4dee-b4cb-ca6e807b9774%2F82072_ec4QJcVnpk26EZhskpWdBA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F47%2Fa8daf276-83a5-4627-a391-b8621f60ada5%2F82021_0Gi2NzDX3BkAi_kpIBodsA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F51%2Fa3967d32-7a3a-4ff6-9270-f5b777e8860f%2F82146_hGlBrNcUB6rVJzBYCrCNxA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F12%2F6a765688-dcfd-4f2b-ab62-f00fa9c3143e%2F35464_-po6_PtyUj8vX7dbvBMylw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F49%2F289bb3d3-1235-4dee-b4cb-ca6e807b9774%2F82072_ec4QJcVnpk26EZhskpWdBA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F47%2Fa8daf276-83a5-4627-a391-b8621f60ada5%2F82021_0Gi2NzDX3BkAi_kpIBodsA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F17%2F57%2F51%2Fa3967d32-7a3a-4ff6-9270-f5b777e8860f%2F82146_hGlBrNcUB6rVJzBYCrCNxA.jpg"
+    ]
   },
   {
     "carId": "742bef43-9ddb-4822-bec9-b21a4722a214",
+    "vin": "5VS7YUBGT4ZL2ESW",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1006,12 +1079,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F55%2F38%2F1e198126-63af-41f7-a4aa-9106e542a3c0%2F35502_mTtmH3Oj-ZPwBMKMbC7Z4Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F55%2F39%2F68a8457a-12b1-4d85-9f42-e0ad3eb68d2d%2F40064_Aay_Vf4Rz5K6Ejbct-lMBQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F55%2F39%2F66619dd4-23eb-401e-bd11-eff905baa0fe%2F40021_IEnY5tliFCuQHjmR4h_Skw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F55%2F38%2F1e198126-63af-41f7-a4aa-9106e542a3c0%2F35502_mTtmH3Oj-ZPwBMKMbC7Z4Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F55%2F39%2F68a8457a-12b1-4d85-9f42-e0ad3eb68d2d%2F40064_Aay_Vf4Rz5K6Ejbct-lMBQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F11%2F55%2F39%2F66619dd4-23eb-401e-bd11-eff905baa0fe%2F40021_IEnY5tliFCuQHjmR4h_Skw.jpg"
+    ]
   },
   {
     "carId": "e10e8f1a-b5b0-4631-8bd5-e705d74f6fdb",
+    "vin": "U92KCAXJ5DZKNW4X",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1046,12 +1122,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F12%2F17%2F35%2F00%2F4b4eb871-b51c-4062-a3cd-2f03eacbf4bc%2F15042_Why3g4CG-eQ-TCdaRx-CJw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F12%2F17%2F34%2F59%2F22d9c4e7-626d-45ab-9823-2dc5433fc69d%2F15050_JyQPRyWWTwJ6uVb7p86GAw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F12%2F17%2F35%2F00%2Fa951934a-e887-4c93-89cf-e3f9d72bc5ff%2F15077_n_D8VUIQSE41vw3KY25fCg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F12%2F17%2F35%2F00%2F4b4eb871-b51c-4062-a3cd-2f03eacbf4bc%2F15042_Why3g4CG-eQ-TCdaRx-CJw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F12%2F17%2F34%2F59%2F22d9c4e7-626d-45ab-9823-2dc5433fc69d%2F15050_JyQPRyWWTwJ6uVb7p86GAw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F12%2F17%2F35%2F00%2Fa951934a-e887-4c93-89cf-e3f9d72bc5ff%2F15077_n_D8VUIQSE41vw3KY25fCg.jpg"
+    ]
   },
   {
     "carId": "b33ca56b-9c43-4a19-b502-792944c053b8",
+    "vin": "NYWPAG7GZ32SJ7FC",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1086,12 +1165,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F00%2F39%2F08%2F0e99adca-ecce-430b-a177-0a0d5a3c167b%2F40047_8RW1sCFAk4stWinFLDNtVQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F00%2F58%2F45%2F28f50942-b3e9-4b78-9d09-d7f702fc26da%2F40042_rVHXBICK2iM2UXSZOQazdw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F00%2F40%2F33%2F3e84319a-7409-4e32-a2d1-2506080108aa%2F40074_7IgLwtt35pzZJa8aNMF7vg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F00%2F39%2F08%2F0e99adca-ecce-430b-a177-0a0d5a3c167b%2F40047_8RW1sCFAk4stWinFLDNtVQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F00%2F58%2F45%2F28f50942-b3e9-4b78-9d09-d7f702fc26da%2F40042_rVHXBICK2iM2UXSZOQazdw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F13%2F00%2F40%2F33%2F3e84319a-7409-4e32-a2d1-2506080108aa%2F40074_7IgLwtt35pzZJa8aNMF7vg.jpg"
+    ]
   },
   {
     "carId": "ce93d1e3-3b6d-4417-9727-16e414543f7c",
+    "vin": "TE3ND84XRB8L8NPW",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1126,13 +1208,16 @@
     },
     "engineVolume": "2800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F30%2Fd0473444-8e3b-4df0-9af2-9025293bd261%2F35462_qi82NnuzTXh6xS8K_QKTQw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F29%2F968ebe39-1213-4bcf-8b0c-0bdc398dd56b%2F35431_5roZ938JMctf3GWnRteYkg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F31%2F17723bdb-3755-4bdc-a3a3-908a062d900a%2F35449_Eg-A525NxqeITXfuya18LA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F31%2Fe049e30b-26e4-40eb-93ed-31f19e35ac27%2F40029__c6GBb3FGL7nYvwmb2CJ7A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F30%2Fd0473444-8e3b-4df0-9af2-9025293bd261%2F35462_qi82NnuzTXh6xS8K_QKTQw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F29%2F968ebe39-1213-4bcf-8b0c-0bdc398dd56b%2F35431_5roZ938JMctf3GWnRteYkg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F31%2F17723bdb-3755-4bdc-a3a3-908a062d900a%2F35449_Eg-A525NxqeITXfuya18LA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F19%2F23%2F31%2Fe049e30b-26e4-40eb-93ed-31f19e35ac27%2F40029__c6GBb3FGL7nYvwmb2CJ7A.jpg"
+    ]
   },
   {
     "carId": "edf9915f-e708-4f50-8634-6f9851747750",
+    "vin": "N8BR2RTT46FYFRKX",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1164,12 +1249,15 @@
     },
     "engineVolume": "2800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F05%2F02%2F11%2F24%2F15%2F59d303e5-141e-4376-a6d1-728bebd91a56%2F36583_HxVM3eEMd67dEEEq0gLgGQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F02%2F11%2F24%2F14%2F38aff131-db81-4f2c-858a-9afa408e7846%2F36588_850T32XfOBmu6fMJYEoEow.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F02%2F11%2F24%2F15%2F06d63ba3-b745-4cfb-8af8-d3b75f8fd2db%2F36572_2B2jC6OlT0QSUkcTktSP0A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F02%2F11%2F24%2F15%2F59d303e5-141e-4376-a6d1-728bebd91a56%2F36583_HxVM3eEMd67dEEEq0gLgGQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F02%2F11%2F24%2F14%2F38aff131-db81-4f2c-858a-9afa408e7846%2F36588_850T32XfOBmu6fMJYEoEow.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F02%2F11%2F24%2F15%2F06d63ba3-b745-4cfb-8af8-d3b75f8fd2db%2F36572_2B2jC6OlT0QSUkcTktSP0A.jpg"
+    ]
   },
   {
     "carId": "43a3f8ea-426f-4e38-9dc0-60cc96bd6b46",
+    "vin": "0AWMM11P1C35A4PC",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1204,12 +1292,15 @@
     },
     "engineVolume": "2800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2022%2F12%2F02%2F12%2F32%2F52%2F91f74c9a-1814-4097-9196-d21eac7269d9%2F904_JzBsIzqWdpktXpeoLbxWUg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F12%2F02%2F12%2F32%2F52%2Fb8ba7377-726b-4433-b0fb-bfc34c1273f7%2F913_8kzhQF0YGBE8KxpGOylqdQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F12%2F02%2F12%2F32%2F51%2F55f36680-2d94-414c-a2b0-bb32a858428a%2F43590_TcinSk4zPKRqMTThudNF1w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2022%2F12%2F02%2F12%2F32%2F52%2F91f74c9a-1814-4097-9196-d21eac7269d9%2F904_JzBsIzqWdpktXpeoLbxWUg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F12%2F02%2F12%2F32%2F52%2Fb8ba7377-726b-4433-b0fb-bfc34c1273f7%2F913_8kzhQF0YGBE8KxpGOylqdQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F12%2F02%2F12%2F32%2F51%2F55f36680-2d94-414c-a2b0-bb32a858428a%2F43590_TcinSk4zPKRqMTThudNF1w.jpg"
+    ]
   },
   {
     "carId": "d5a0c13f-60d0-4e09-a214-116eea09f77e",
+    "vin": "09S8ZDYHJ7W2J1YN",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1242,12 +1333,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F12%2F00%2F54%2F0a1dcf71-8bf2-493f-b1a7-6e65844244c6%2F66260_rNA1QltO7nTvpbIy1kATgQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F12%2F01%2F07%2F4bcf24ca-b3e4-4327-a4fb-0b62d3e2c2eb%2F87664_57hB4NssuN8uBV7bRNUJfA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F12%2F02%2F01%2F406ecf74-0870-4c37-b961-8f335fcfa846%2F21466_NTUqn5sepnMmmKFvFNtYKQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F12%2F00%2F54%2F0a1dcf71-8bf2-493f-b1a7-6e65844244c6%2F66260_rNA1QltO7nTvpbIy1kATgQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F12%2F01%2F07%2F4bcf24ca-b3e4-4327-a4fb-0b62d3e2c2eb%2F87664_57hB4NssuN8uBV7bRNUJfA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F12%2F02%2F01%2F406ecf74-0870-4c37-b961-8f335fcfa846%2F21466_NTUqn5sepnMmmKFvFNtYKQ.jpg"
+    ]
   },
   {
     "carId": "ff1dc892-9d27-40c0-8631-1bec51b2117a",
+    "vin": "KATP4DY4XBDP7R2E",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1280,12 +1374,15 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F13%2F08%2F27%2F67ab4546-faf8-4f93-9f8c-a4b0833704e0%2F82070_AoxIbD1-K2J5KbTUS8Q1cg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F13%2F08%2F29%2F9ed06d75-8b34-4931-a766-22b7d5dfcda9%2F82135_rxwa-3GRfpmALd8B1PjIXw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F13%2F08%2F30%2F74ccd553-890b-4395-a103-abdcf4d519a4%2F82139_onWYwisnKPXwxYF-Rv_Efw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F13%2F08%2F27%2F67ab4546-faf8-4f93-9f8c-a4b0833704e0%2F82070_AoxIbD1-K2J5KbTUS8Q1cg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F13%2F08%2F29%2F9ed06d75-8b34-4931-a766-22b7d5dfcda9%2F82135_rxwa-3GRfpmALd8B1PjIXw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F13%2F08%2F30%2F74ccd553-890b-4395-a103-abdcf4d519a4%2F82139_onWYwisnKPXwxYF-Rv_Efw.jpg"
+    ]
   },
   {
     "carId": "63abd42d-a8b5-4a11-92eb-ee6984f1885a",
+    "vin": "32DVMCB723D4LDR2",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1319,13 +1416,16 @@
     },
     "engineVolume": "2800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F10%2F59%2Fc670aa15-9062-49e3-b22e-8a0fce9bc2cf%2F52798_xerJ4m3c3ihnhNb2D_PM3A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F10%2F30%2F4f8d3216-2e60-4ad0-ab3f-70da84160719%2F52087_cj2PulizyVhgmCrVQawJ0g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F11%2F29%2F58afe916-39d0-4654-ad68-440e1177c602%2F47037_vqrKHowHhhqxUIvj1obNiQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F10%2F17%2Fa964c8b3-1328-4a0b-a87c-813798fff194%2F52113_ap9_tmOq96-xcLRr6lBueQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F10%2F59%2Fc670aa15-9062-49e3-b22e-8a0fce9bc2cf%2F52798_xerJ4m3c3ihnhNb2D_PM3A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F10%2F30%2F4f8d3216-2e60-4ad0-ab3f-70da84160719%2F52087_cj2PulizyVhgmCrVQawJ0g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F11%2F29%2F58afe916-39d0-4654-ad68-440e1177c602%2F47037_vqrKHowHhhqxUIvj1obNiQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F21%2F16%2F10%2F17%2Fa964c8b3-1328-4a0b-a87c-813798fff194%2F52113_ap9_tmOq96-xcLRr6lBueQ.jpg"
+    ]
   },
   {
     "carId": "29eda467-b488-43f6-aea4-14d35c9f7617",
+    "vin": "SPHMT34JRJ3E6RN7",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1357,12 +1457,15 @@
     },
     "engineVolume": "2400 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F16%2F24%2F06%2F0c57169c-16d5-41ae-ab6f-3f97e7641381%2F40047_s_yLX5dajDhiMZ7LJtbDCA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F16%2F29%2F11%2F4b69855c-1270-493b-8f5c-9266f89ab7d2%2F40051_ATM8J_9x9w7hI4exGKcQ_Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F16%2F29%2F21%2Fbddcc6e9-5f05-496c-8107-107a0e1ac0da%2F35484_wf92wXDj68klRYjXYqnkDA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F16%2F24%2F06%2F0c57169c-16d5-41ae-ab6f-3f97e7641381%2F40047_s_yLX5dajDhiMZ7LJtbDCA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F16%2F29%2F11%2F4b69855c-1270-493b-8f5c-9266f89ab7d2%2F40051_ATM8J_9x9w7hI4exGKcQ_Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F16%2F29%2F21%2Fbddcc6e9-5f05-496c-8107-107a0e1ac0da%2F35484_wf92wXDj68klRYjXYqnkDA.jpg"
+    ]
   },
   {
     "carId": "978b0318-0b2c-4e86-afaf-0843638fa6e8",
+    "vin": "1VH1KJ8YF496E5MP",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1396,13 +1499,16 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F06%2F50%2Ff64beecb-b423-46ad-aaa8-f853f237f255%2F98863_jJgLe0D_-yvTJcTLXUwZVg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F06%2F43%2F9eeab885-0103-4195-b705-5ba84bec4e60%2F60369_qatyFLJIFMlpG9a4lt2zlQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F07%2F09%2F250b3b0d-624a-4504-8d64-a52b2ce0b99d%2F79816_fxAcoqgshR60gLCNWG-aVQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F07%2F06%2F57f6d4c9-2935-4e49-ad19-3c6803d4b4a2%2F79811_yjsZrnV5hW960o0zPWB2IA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F06%2F50%2Ff64beecb-b423-46ad-aaa8-f853f237f255%2F98863_jJgLe0D_-yvTJcTLXUwZVg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F06%2F43%2F9eeab885-0103-4195-b705-5ba84bec4e60%2F60369_qatyFLJIFMlpG9a4lt2zlQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F07%2F09%2F250b3b0d-624a-4504-8d64-a52b2ce0b99d%2F79816_fxAcoqgshR60gLCNWG-aVQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F14%2F13%2F07%2F06%2F57f6d4c9-2935-4e49-ad19-3c6803d4b4a2%2F79811_yjsZrnV5hW960o0zPWB2IA.jpg"
+    ]
   },
   {
     "carId": "ed619426-eabf-4e3c-82d6-4ba7a9a3519e",
+    "vin": "UCY3AJ8ASDAGA83T",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1437,12 +1543,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F16%2F29%2F54%2F25205083-9e50-40f8-ac6c-76eb30366890%2F35461_jr7HY1ljaaSaJg7-79Q02w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F16%2F29%2F56%2Fb510b971-5638-4187-9eca-aa8cb9c21666%2F35464_u9gvbYvk-VG5sDESPp4qxA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F16%2F29%2F55%2F634bf9fa-1748-4322-b8a1-381a2013f2d4%2F35466_6cxkOcWqc4X04ustK-GbZg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F16%2F29%2F54%2F25205083-9e50-40f8-ac6c-76eb30366890%2F35461_jr7HY1ljaaSaJg7-79Q02w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F16%2F29%2F56%2Fb510b971-5638-4187-9eca-aa8cb9c21666%2F35464_u9gvbYvk-VG5sDESPp4qxA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F16%2F29%2F55%2F634bf9fa-1748-4322-b8a1-381a2013f2d4%2F35466_6cxkOcWqc4X04ustK-GbZg.jpg"
+    ]
   },
   {
     "carId": "ab0505de-00da-48ee-8bc3-5381f2ba26a3",
+    "vin": "7L2S0SP3T4307LE1",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1473,13 +1582,16 @@
     },
     "engineVolume": "2400 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F43%2F03%2Fae452a31-0881-4dbb-a972-491ce0657efa%2F82140_rEzdGshFwhC4D3Kh-5panw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F43%2F02%2F153e0bd8-35b9-4616-b0cf-1027d7c027b5%2F82148_IWY4RkgZ0z2PEEJe091YjQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F43%2F03%2F6db92a5f-5529-4344-bcce-bac2d0925f5b%2F82039_Q0pk4oVmP3oIfDa7pRR8Bw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F42%2F41%2F2c96c6f8-c140-44ce-b206-6af8f52c4652%2F35483_pl968ueaX9BiMaoHn2FtdA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F43%2F03%2Fae452a31-0881-4dbb-a972-491ce0657efa%2F82140_rEzdGshFwhC4D3Kh-5panw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F43%2F02%2F153e0bd8-35b9-4616-b0cf-1027d7c027b5%2F82148_IWY4RkgZ0z2PEEJe091YjQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F43%2F03%2F6db92a5f-5529-4344-bcce-bac2d0925f5b%2F82039_Q0pk4oVmP3oIfDa7pRR8Bw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F00%2F42%2F41%2F2c96c6f8-c140-44ce-b206-6af8f52c4652%2F35483_pl968ueaX9BiMaoHn2FtdA.jpg"
+    ]
   },
   {
     "carId": "9948f4b9-48c7-4c77-a338-1539e0ce1ac8",
+    "vin": "U6PKDYNX3RWE1W25",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1514,12 +1626,15 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F15%2F33%2F35%2F95887726-6d96-4743-8f25-2627d5028e3f%2F82004_B3zjIs3SfTQyPQkSFwhIew.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F20%2F13%2F31%2F2d950cde-24b0-42d2-adb6-5a40fa84d866%2F60361_esMbZM8LjEFfmMfZNwOZHg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F20%2F11%2F07%2F3858b84c-c1c2-4e11-98a1-4fd88147b4bb%2F79810_6Rvl_hh_oFAmi3JZc2Va5g.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F15%2F33%2F35%2F95887726-6d96-4743-8f25-2627d5028e3f%2F82004_B3zjIs3SfTQyPQkSFwhIew.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F20%2F13%2F31%2F2d950cde-24b0-42d2-adb6-5a40fa84d866%2F60361_esMbZM8LjEFfmMfZNwOZHg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F20%2F11%2F07%2F3858b84c-c1c2-4e11-98a1-4fd88147b4bb%2F79810_6Rvl_hh_oFAmi3JZc2Va5g.jpg"
+    ]
   },
   {
     "carId": "4b35e702-d940-438c-a1ec-0228379d0e54",
+    "vin": "6WPHC0Y9LA54NEJT",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1553,13 +1668,16 @@
     },
     "engineVolume": "2400 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F15%2F07%2F57%2F57aaf2cd-6dae-4e3b-b2ac-1568f0619f25%2F40076_Q2Ko7fS9h1_jEpGmAMT5cw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F15%2F07%2F56%2Fa2d3956b-1c37-44c1-8c8c-4ae20a0eeead%2F40090_ESTVj4XHq8cQvBsEseQV2A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F15%2F07%2F57%2Fa388b492-e4f9-4b89-ae1c-c7519d0030dc%2F40086_pj7arpf6LJm7ZPf6O9F_yw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F13%2F34%2F08%2F666fa30e-fa0c-4e11-88b2-5f8ab8d3228f%2F65736_8JiqIkr0JoWou7vVJqjtkA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F15%2F07%2F57%2F57aaf2cd-6dae-4e3b-b2ac-1568f0619f25%2F40076_Q2Ko7fS9h1_jEpGmAMT5cw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F15%2F07%2F56%2Fa2d3956b-1c37-44c1-8c8c-4ae20a0eeead%2F40090_ESTVj4XHq8cQvBsEseQV2A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F15%2F07%2F57%2Fa388b492-e4f9-4b89-ae1c-c7519d0030dc%2F40086_pj7arpf6LJm7ZPf6O9F_yw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F06%2F13%2F34%2F08%2F666fa30e-fa0c-4e11-88b2-5f8ab8d3228f%2F65736_8JiqIkr0JoWou7vVJqjtkA.jpg"
+    ]
   },
   {
     "carId": "ad544fde-1045-4aad-b22e-76553bf27334",
+    "vin": "4SPH2D46LMJZVCBB",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1592,12 +1710,15 @@
     },
     "engineVolume": "2400 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F39%2F23%2F00f14b92-a136-4a6d-8ff5-7a1966770283%2F43712_uxde7O234uJFaevrLFrr1Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F39%2F23%2F2f4abf5b-5268-491e-a714-0f946b9a1a9a%2F43674_7DtWA8cAlwZdmoR8EHYlOQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F39%2F23%2F156bae2c-d698-42fa-a269-b19ec089bc3c%2F43691_8_fK4i0VqLrtLKdBKA412A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F39%2F23%2F00f14b92-a136-4a6d-8ff5-7a1966770283%2F43712_uxde7O234uJFaevrLFrr1Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F39%2F23%2F2f4abf5b-5268-491e-a714-0f946b9a1a9a%2F43674_7DtWA8cAlwZdmoR8EHYlOQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F12%2F39%2F23%2F156bae2c-d698-42fa-a269-b19ec089bc3c%2F43691_8_fK4i0VqLrtLKdBKA412A.jpg"
+    ]
   },
   {
     "carId": "e769feb3-9c10-4767-b6d6-fcefb796c72e",
+    "vin": "0C15JPK4VVTV4J17",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1631,13 +1752,16 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2F06297ce6-d4dc-4d39-b78a-1e0b45087fc9%2F98912_c88yGEVjyXRTvh7PYfSujQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2F2c7eac01-bb15-42b4-b2e3-3b5e976d01a6%2F98906_ysP5A0AMIGs0C8GHHjXYZw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2F241a096a-9121-487d-90b5-1732cbdc587c%2F98860_BdF9MAhuhgOYBrm5jS5wEA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2Ff779b0bb-b8b4-46b2-834e-399369532054%2F98778_-huDmZFcMKnw5tBrn1i90Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2F06297ce6-d4dc-4d39-b78a-1e0b45087fc9%2F98912_c88yGEVjyXRTvh7PYfSujQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2F2c7eac01-bb15-42b4-b2e3-3b5e976d01a6%2F98906_ysP5A0AMIGs0C8GHHjXYZw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2F241a096a-9121-487d-90b5-1732cbdc587c%2F98860_BdF9MAhuhgOYBrm5jS5wEA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F21%2F48%2Ff779b0bb-b8b4-46b2-834e-399369532054%2F98778_-huDmZFcMKnw5tBrn1i90Q.jpg"
+    ]
   },
   {
     "carId": "b8479a41-a6e7-4b76-beb0-397da01e24aa",
+    "vin": "J2YU4J7M15YDY2PV",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1671,12 +1795,15 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F19%2F21%2F32%2F248a941f-eb39-4e8b-83f1-6d712ee853af%2F35433_u7h5wDrtTAzgPn2X_NeWlQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F19%2F21%2F32%2F7ed0c5a7-840a-43f6-8852-b1f4bbdab148%2F35493_GTBUhBeaz4M62jluX0cG3g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F19%2F21%2F32%2Fb6f084ec-965c-49f0-9e79-2b1474669342%2F35430_b4zyWGe673PNtaHkzbVFbA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F19%2F21%2F32%2F248a941f-eb39-4e8b-83f1-6d712ee853af%2F35433_u7h5wDrtTAzgPn2X_NeWlQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F19%2F21%2F32%2F7ed0c5a7-840a-43f6-8852-b1f4bbdab148%2F35493_GTBUhBeaz4M62jluX0cG3g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F19%2F21%2F32%2Fb6f084ec-965c-49f0-9e79-2b1474669342%2F35430_b4zyWGe673PNtaHkzbVFbA.jpg"
+    ]
   },
   {
     "carId": "9a5a02cb-852c-48cf-89c7-2836f881a687",
+    "vin": "ZM80NSYPWP4A3P2D",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1709,10 +1836,12 @@
       ]
     },
     "engineVolume": "2800 sm3",
-    "transmission": "Avtomat"
+    "transmission": "Avtomat",
+    "photos": null
   },
   {
     "carId": "3a945d4d-a649-4a5c-8335-75318e05b9f2",
+    "vin": "U6NML5ZEDWL783WX",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1747,13 +1876,16 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F00%2F0a4c1809-2ddc-4f31-a42e-a92d4276a295%2F60362_qVgiKTMMjoTx-uaLaPLc-w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F00%2Ff99654af-496e-461f-a032-1262b61b8e5b%2F2120__WQH0JzifPDTsc6SnAe86w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F01%2F343d6756-014f-40a0-beac-40d05104128e%2F60316_jMmoy81Ib0BPxndJ8zpZ9g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F01%2F75024615-5015-4345-828b-65ba1c66e4ed%2F60347_6vpgKDsdLRH8mBjgoBm79A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F00%2F0a4c1809-2ddc-4f31-a42e-a92d4276a295%2F60362_qVgiKTMMjoTx-uaLaPLc-w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F00%2Ff99654af-496e-461f-a032-1262b61b8e5b%2F2120__WQH0JzifPDTsc6SnAe86w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F01%2F343d6756-014f-40a0-beac-40d05104128e%2F60316_jMmoy81Ib0BPxndJ8zpZ9g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F19%2F25%2F01%2F75024615-5015-4345-828b-65ba1c66e4ed%2F60347_6vpgKDsdLRH8mBjgoBm79A.jpg"
+    ]
   },
   {
     "carId": "ab412ec4-d58f-4fba-bfba-e1448193d125",
+    "vin": "51KTZMPDESX6W4CM",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1787,12 +1919,15 @@
     },
     "engineVolume": "3700 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F10%2F16%2F28%2F8e00c883-addd-430f-aff3-ffc0984f8748%2F60328_rIrK7gKwcHEZ0Ez8aUWszg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F10%2F16%2F29%2F77606560-7cde-40ac-a83c-69c65d06a550%2F60330_IL7Lp_RAjzgjnc-jRFRQaA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F10%2F16%2F28%2Ff053136e-5e0d-4ff4-a958-f912050673d6%2F60361_4BRgrLWLG-OaR7sy9UukVQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F10%2F16%2F28%2F8e00c883-addd-430f-aff3-ffc0984f8748%2F60328_rIrK7gKwcHEZ0Ez8aUWszg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F10%2F16%2F29%2F77606560-7cde-40ac-a83c-69c65d06a550%2F60330_IL7Lp_RAjzgjnc-jRFRQaA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F10%2F16%2F28%2Ff053136e-5e0d-4ff4-a958-f912050673d6%2F60361_4BRgrLWLG-OaR7sy9UukVQ.jpg"
+    ]
   },
   {
     "carId": "0d533130-0e67-4cf4-a871-0d943c30a56c",
+    "vin": "BV72HM0HD9U2M45C",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1826,12 +1961,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2022%2F10%2F30%2F19%2F16%2F38%2Fe8fa5af9-e4b8-47d7-b8b5-cae0f7a442f6%2F34964_FxIrval7s68kGXKLLvzhzQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F10%2F30%2F19%2F16%2F43%2F5da2db89-c883-4eb3-a87e-3cd45c0cfb0f%2F27834_ox2f-pUuFCv97wGtwlMINQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F10%2F30%2F19%2F16%2F48%2Ff7d2e2ff-8f7b-452b-a07f-0227ead79257%2F39009_obSmCwVIikj45Q3YCOHOZw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2022%2F10%2F30%2F19%2F16%2F38%2Fe8fa5af9-e4b8-47d7-b8b5-cae0f7a442f6%2F34964_FxIrval7s68kGXKLLvzhzQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F10%2F30%2F19%2F16%2F43%2F5da2db89-c883-4eb3-a87e-3cd45c0cfb0f%2F27834_ox2f-pUuFCv97wGtwlMINQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F10%2F30%2F19%2F16%2F48%2Ff7d2e2ff-8f7b-452b-a07f-0227ead79257%2F39009_obSmCwVIikj45Q3YCOHOZw.jpg"
+    ]
   },
   {
     "carId": "ea739357-4fd2-484e-b1bc-f3480bfb4ad7",
+    "vin": "FKBC25EC1GDBAA49",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1866,12 +2004,15 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F08%2F11%2F27%2F08%2F7de2791b-ec43-4212-990b-cfdf8042231b%2F74270_855p0v57Vb9Lj0SAjudtEw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F08%2F11%2F26%2F42%2F3071eefd-cda9-4a0c-968b-51804e047101%2F43683_D9q09WagJgcqRexinFoMTA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F08%2F11%2F26%2F43%2F3093c872-ca8a-4e52-b810-b006e4e18cd1%2F43654_4YKkJzfikdMxpcLhtQVWFQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F08%2F11%2F27%2F08%2F7de2791b-ec43-4212-990b-cfdf8042231b%2F74270_855p0v57Vb9Lj0SAjudtEw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F08%2F11%2F26%2F42%2F3071eefd-cda9-4a0c-968b-51804e047101%2F43683_D9q09WagJgcqRexinFoMTA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F08%2F11%2F26%2F43%2F3093c872-ca8a-4e52-b810-b006e4e18cd1%2F43654_4YKkJzfikdMxpcLhtQVWFQ.jpg"
+    ]
   },
   {
     "carId": "f3aca7a3-0e88-4883-8e82-14e198f0afd2",
+    "vin": "R4697SMTMM9PD3LG",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1905,13 +2046,16 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F08%2F53%2Ff067b55c-581f-4698-907a-12510e7ab735%2F35454_5W04LlWzvhq44VfVU9Sw8Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F09%2F34%2F8626e410-b042-45f5-a2e2-8b9afe8523d8%2F40061_W-aDLGsi_E-WktQMQFVxBw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F08%2F56%2Feb6cdf88-0e59-4ed8-855b-29197c146e5b%2F82129_ztUZ03LC2Mp6CGQgw9pF6g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F08%2F07%2F0b20d23b-399c-4306-8e5c-741b7c5e73cc%2F82149_i_N8x6yZhKKAje8GcKECHg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F08%2F53%2Ff067b55c-581f-4698-907a-12510e7ab735%2F35454_5W04LlWzvhq44VfVU9Sw8Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F09%2F34%2F8626e410-b042-45f5-a2e2-8b9afe8523d8%2F40061_W-aDLGsi_E-WktQMQFVxBw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F08%2F56%2Feb6cdf88-0e59-4ed8-855b-29197c146e5b%2F82129_ztUZ03LC2Mp6CGQgw9pF6g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F21%2F08%2F07%2F0b20d23b-399c-4306-8e5c-741b7c5e73cc%2F82149_i_N8x6yZhKKAje8GcKECHg.jpg"
+    ]
   },
   {
     "carId": "c3f6274d-fbc5-4f9c-abc7-ca8ec6d616fc",
+    "vin": "BRP5V7G6CM5U992P",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1945,13 +2089,16 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F12%2Fd09f748b-a97c-44e2-bd83-e9e63d67e60f%2F35675_xbWtdpHrs2GcojEq3h33Iw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F12%2Fd3c7a82a-2f3d-42b8-aa13-724bde310e62%2F35675_d6I2LFSraIUiNdGpremaSw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F14%2F36e0761b-a7bb-49d4-87f9-2d3982673261%2F70696_8BXrXgkD3LFQ6QU7w0Putg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F11%2Fae62966e-23cd-498c-a17d-175661c05512%2F35675_dL6qO5lURl0MR6jmPpdoKg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F12%2Fd09f748b-a97c-44e2-bd83-e9e63d67e60f%2F35675_xbWtdpHrs2GcojEq3h33Iw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F12%2Fd3c7a82a-2f3d-42b8-aa13-724bde310e62%2F35675_d6I2LFSraIUiNdGpremaSw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F14%2F36e0761b-a7bb-49d4-87f9-2d3982673261%2F70696_8BXrXgkD3LFQ6QU7w0Putg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F30%2F16%2F04%2F11%2Fae62966e-23cd-498c-a17d-175661c05512%2F35675_dL6qO5lURl0MR6jmPpdoKg.jpg"
+    ]
   },
   {
     "carId": "2b47d2f2-f69c-4309-808b-6efb7af885e9",
+    "vin": "5HKVYGU0PMBWBJLK",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -1985,13 +2132,16 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F23%2Fd52450e4-1795-4b72-bcc8-c8f2272d3fce%2F98868_b7iKT_TMy_vMsHuSOap48g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F23%2Fb2b3a08a-768d-4f0f-96fb-f7dbc4b568d8%2F98878_IJhb8Fo7RXgMBqNz7adT2w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F21%2F16f912c7-15d5-42be-80cf-a8e760e50a72%2F98757_3kHUgQw87Zcal3zOoFKYcQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F21%2F62ef3b9b-9050-4549-9f4f-e99eae2e225e%2F99074_JrlqQrnASFtvsx10APDcgQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F23%2Fd52450e4-1795-4b72-bcc8-c8f2272d3fce%2F98868_b7iKT_TMy_vMsHuSOap48g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F23%2Fb2b3a08a-768d-4f0f-96fb-f7dbc4b568d8%2F98878_IJhb8Fo7RXgMBqNz7adT2w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F21%2F16f912c7-15d5-42be-80cf-a8e760e50a72%2F98757_3kHUgQw87Zcal3zOoFKYcQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F13%2F03%2F21%2F62ef3b9b-9050-4549-9f4f-e99eae2e225e%2F99074_JrlqQrnASFtvsx10APDcgQ.jpg"
+    ]
   },
   {
     "carId": "70b995ac-0a44-4012-b732-db3dab5f1d06",
+    "vin": "0H0KM6STTK4Z4X6U",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2025,12 +2175,15 @@
     },
     "engineVolume": "2800 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2022%2F04%2F16%2F18%2F07%2F37%2Faf96fea6-c6da-46fc-b9c7-ae4e1e8243fc%2F90942_cWY0tkVI5UNwGPEKiXsHeg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F04%2F16%2F18%2F07%2F29%2Ffab6de77-fdd8-4f63-a895-72c5b79c1dca%2F22254_o3l3qx4M9Cp3pEiLDH6RDA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F04%2F16%2F18%2F07%2F36%2Fc3a9fd1f-ae1d-47f8-9753-2122139a42c1%2F62247_um_iiwwu-05eidZJyZRlOQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2022%2F04%2F16%2F18%2F07%2F37%2Faf96fea6-c6da-46fc-b9c7-ae4e1e8243fc%2F90942_cWY0tkVI5UNwGPEKiXsHeg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F04%2F16%2F18%2F07%2F29%2Ffab6de77-fdd8-4f63-a895-72c5b79c1dca%2F22254_o3l3qx4M9Cp3pEiLDH6RDA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F04%2F16%2F18%2F07%2F36%2Fc3a9fd1f-ae1d-47f8-9753-2122139a42c1%2F62247_um_iiwwu-05eidZJyZRlOQ.jpg"
+    ]
   },
   {
     "carId": "2741aaa0-a396-4bb7-a41c-9c83276750ba",
+    "vin": "CCUZ2TCAXC2D97DV",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2067,12 +2220,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F10%2F40%2F42%2Faa2113de-0aab-4d06-9d96-bf1d47032a69%2F60369_khVcXXqnMvocdEiOe_37kw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F10%2F40%2F43%2F9ce7a9ae-8fdc-49a5-b410-673fa770e9aa%2F60315_aM4eX-cZqKU3jHITK6BQ8g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F10%2F40%2F43%2F4b8a243c-ad41-4c59-9557-27358d08fb9f%2F60358_ZGLeQoIYeBtK3FAV5abpoQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F10%2F40%2F42%2Faa2113de-0aab-4d06-9d96-bf1d47032a69%2F60369_khVcXXqnMvocdEiOe_37kw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F10%2F40%2F43%2F9ce7a9ae-8fdc-49a5-b410-673fa770e9aa%2F60315_aM4eX-cZqKU3jHITK6BQ8g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F10%2F40%2F43%2F4b8a243c-ad41-4c59-9557-27358d08fb9f%2F60358_ZGLeQoIYeBtK3FAV5abpoQ.jpg"
+    ]
   },
   {
     "carId": "86c11d73-7813-419b-af54-6af684c3aaff",
+    "vin": "YY2SGC1HKM9PFC0Y",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2108,12 +2264,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F12%2F00%2F19%2F69617fef-031f-4424-a9d9-134545a7d8f2%2F79816_x9ZO1ynLN3lbpUr79rMgTA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F12%2F01%2F12%2F98943de1-df1f-4e70-bfa6-3da704ec571f%2F93340_6HNIq1ynx8-Ldd-X6IP1zA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F12%2F00%2F39%2Fb4a07844-cf4e-4557-8869-f6789a659f4e%2F79823_IEmu8ZdiKVVFH9_nMPmEJw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F12%2F00%2F19%2F69617fef-031f-4424-a9d9-134545a7d8f2%2F79816_x9ZO1ynLN3lbpUr79rMgTA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F12%2F01%2F12%2F98943de1-df1f-4e70-bfa6-3da704ec571f%2F93340_6HNIq1ynx8-Ldd-X6IP1zA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F12%2F00%2F39%2Fb4a07844-cf4e-4557-8869-f6789a659f4e%2F79823_IEmu8ZdiKVVFH9_nMPmEJw.jpg"
+    ]
   },
   {
     "carId": "1917d862-9aba-4e5d-8fc9-aeab418ef550",
+    "vin": "VLM1SNYSGLG5XTRN",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2148,13 +2307,16 @@
     },
     "engineVolume": "4000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2F4445ac9e-a0b2-4ebc-a9b3-55c0a8b617b3%2F60336_Lff09lZr3gUBzm2I4INGMg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2Fff0b54bd-1b08-4780-abf8-768abc5f940d%2F60330_OcyCAaGP_Ty_N1Z7y325Rg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2Fdbb22e99-2809-4bfb-93f6-184ab4592c80%2F60320_w-SZhRTccmASyL5z8WYaVA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2F973ca423-56a6-46e4-973e-15cb6126dd1c%2F40793_IgppYI7NOjnmL-NUFaS2MQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2F4445ac9e-a0b2-4ebc-a9b3-55c0a8b617b3%2F60336_Lff09lZr3gUBzm2I4INGMg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2Fff0b54bd-1b08-4780-abf8-768abc5f940d%2F60330_OcyCAaGP_Ty_N1Z7y325Rg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2Fdbb22e99-2809-4bfb-93f6-184ab4592c80%2F60320_w-SZhRTccmASyL5z8WYaVA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F12%2F31%2F53%2F973ca423-56a6-46e4-973e-15cb6126dd1c%2F40793_IgppYI7NOjnmL-NUFaS2MQ.jpg"
+    ]
   },
   {
     "carId": "2a11c219-21ec-4638-b307-86cf241ec75e",
+    "vin": "AHNDMZURJ0CHC56L",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2189,13 +2351,16 @@
     },
     "engineVolume": "6300 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F04%2F18%2Fff9508f1-2f25-49f8-b352-9b7528340611%2F91453_MrrgZj9usC4qHp1ArHzovA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F04%2F24%2F6604fd58-4d74-46dd-b31d-37f0e7da8ae7%2F52806_yU_sm8yJonTl6C6hHY8_Bg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F04%2F36%2F6cbdcabe-2bb3-4549-be73-241c572a0db2%2F52788_n3KoLMNNJGDJ37sa5WHw-w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F05%2F07%2F0a23a517-e111-4140-90e0-330624d9a53b%2F52104_Vz_4LygFlPri_0AXCMj6dQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F04%2F18%2Fff9508f1-2f25-49f8-b352-9b7528340611%2F91453_MrrgZj9usC4qHp1ArHzovA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F04%2F24%2F6604fd58-4d74-46dd-b31d-37f0e7da8ae7%2F52806_yU_sm8yJonTl6C6hHY8_Bg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F04%2F36%2F6cbdcabe-2bb3-4549-be73-241c572a0db2%2F52788_n3KoLMNNJGDJ37sa5WHw-w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F19%2F11%2F05%2F07%2F0a23a517-e111-4140-90e0-330624d9a53b%2F52104_Vz_4LygFlPri_0AXCMj6dQ.jpg"
+    ]
   },
   {
     "carId": "cdb5d882-3a08-4050-98b0-5f2d345f8df8",
+    "vin": "ZWB4YJCBDVYBU6ZN",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2230,12 +2395,15 @@
     },
     "engineVolume": "4000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F24%2F14%2F53%2F17%2F89e30198-5771-4ae2-822d-cc6d9af61170%2F98866_B18g-duwUviF8Ta7PJBl5w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F24%2F14%2F53%2F17%2F01a24a71-3e85-4866-835a-68797767fc05%2F98757_TvRIikTazESrNYNQSj-hCg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F24%2F14%2F53%2F17%2Fe5dd907e-0f85-4692-b8ee-5e3ecbf0d0c2%2F98868_yO52A6uTuviqmGvG4POXFA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F24%2F14%2F53%2F17%2F89e30198-5771-4ae2-822d-cc6d9af61170%2F98866_B18g-duwUviF8Ta7PJBl5w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F24%2F14%2F53%2F17%2F01a24a71-3e85-4866-835a-68797767fc05%2F98757_TvRIikTazESrNYNQSj-hCg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F24%2F14%2F53%2F17%2Fe5dd907e-0f85-4692-b8ee-5e3ecbf0d0c2%2F98868_yO52A6uTuviqmGvG4POXFA.jpg"
+    ]
   },
   {
     "carId": "d5bc8c97-1d53-438d-9d5c-e17ffc94e777",
+    "vin": "LHP5K9X270CF9AFR",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2271,13 +2439,16 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F42%2F045978d9-e114-4cc2-8cf4-34330addc823%2F9165_M_GGEHRt0aLNK_2B3kmgrQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F37%2F2cb02374-2383-4ed2-9b43-9972dd1ab095%2F74605_LaFd2omH6g35C5QTQI80JQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F40%2Fb0a581ba-f8fe-49ae-a1fb-c8e44c758482%2F9168_c3mdGz2Q_Ot2v5NiaJMJwA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F42%2F721523c9-4b86-41d3-bae9-de316c999ffe%2F38293_CHHjMVOiEhD-8U3lmLgCQg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F42%2F045978d9-e114-4cc2-8cf4-34330addc823%2F9165_M_GGEHRt0aLNK_2B3kmgrQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F37%2F2cb02374-2383-4ed2-9b43-9972dd1ab095%2F74605_LaFd2omH6g35C5QTQI80JQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F40%2Fb0a581ba-f8fe-49ae-a1fb-c8e44c758482%2F9168_c3mdGz2Q_Ot2v5NiaJMJwA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F02%2F15%2F12%2F06%2F42%2F721523c9-4b86-41d3-bae9-de316c999ffe%2F38293_CHHjMVOiEhD-8U3lmLgCQg.jpg"
+    ]
   },
   {
     "carId": "e5ec1f9f-6366-4bec-a8de-95fc337aa92d",
+    "vin": "FADEVN53LYXCYZA3",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2313,13 +2484,16 @@
     },
     "engineVolume": "2500 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F52%2F9ce507b6-14f9-4177-8d78-d75618a5ab67%2F58633_BbGcUDbinx943TzisyFd8A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F51%2F7333a8cc-a497-4c2a-890e-ebe67c009fd9%2F58620_Z8D1belCaeuyaM_D1BNB6A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F56%2F01deac53-4505-4372-80f9-a9b669ead785%2F22726_FBr5H44zwxb6GBnJskegyA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F52%2F4cfc12f6-f54d-447d-9564-8ec6cf42a411%2F6055_-9Im1bI_EZW_FYXaJYk8_w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F52%2F9ce507b6-14f9-4177-8d78-d75618a5ab67%2F58633_BbGcUDbinx943TzisyFd8A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F51%2F7333a8cc-a497-4c2a-890e-ebe67c009fd9%2F58620_Z8D1belCaeuyaM_D1BNB6A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F56%2F01deac53-4505-4372-80f9-a9b669ead785%2F22726_FBr5H44zwxb6GBnJskegyA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F15%2F19%2F06%2F52%2F4cfc12f6-f54d-447d-9564-8ec6cf42a411%2F6055_-9Im1bI_EZW_FYXaJYk8_w.jpg"
+    ]
   },
   {
     "carId": "763d3a5b-9ac2-40f2-8608-582f691150a1",
+    "vin": "G0KYASRSVG8J7NZB",
     "attributes": [
       "Lyuk",
       "M\u0259rk\u0259zi qapanma",
@@ -2347,12 +2521,15 @@
     },
     "engineVolume": "2500 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F14%2F37%2F55%2F755d6b85-97b7-4afd-ae35-b1c9f156a405%2F40020_xhmC7x7KRIFSGrqSOMks0Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F14%2F37%2F52%2F2473f583-b018-440e-90f2-5e8d01298c9e%2F40020_BYPibh_ynvTOQDzANIfQzQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F14%2F37%2F41%2Fb1d7c9bf-1b20-4670-9c14-22b2d0147c2f%2F82114_u0NfKF0SxYxHKjcRd7Xp8g.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F14%2F37%2F55%2F755d6b85-97b7-4afd-ae35-b1c9f156a405%2F40020_xhmC7x7KRIFSGrqSOMks0Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F14%2F37%2F52%2F2473f583-b018-440e-90f2-5e8d01298c9e%2F40020_BYPibh_ynvTOQDzANIfQzQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F14%2F37%2F41%2Fb1d7c9bf-1b20-4670-9c14-22b2d0147c2f%2F82114_u0NfKF0SxYxHKjcRd7Xp8g.jpg"
+    ]
   },
   {
     "carId": "efede0aa-36c0-4e3a-9504-ab65e879bee3",
+    "vin": "EBS5F838KB20MX6N",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2387,12 +2564,15 @@
     },
     "engineVolume": "2700 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F12%2F11%2F41%2Fed4c2036-0d5e-4429-b667-7b63d3578a2b%2F40064_RBCrqT8Pbgp9NtEHL6jG7A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F12%2F12%2F39%2F600949c7-2a14-4143-94f8-b16f74d6ebf3%2F35445_RUBui3G_qJhRjNQFsYBj-Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F12%2F12%2F55%2Fa0c29d59-c4ac-48ac-adc9-30751522e77c%2F82083_DfpMYNOJF-gpZq8oSIrAlQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F12%2F11%2F41%2Fed4c2036-0d5e-4429-b667-7b63d3578a2b%2F40064_RBCrqT8Pbgp9NtEHL6jG7A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F12%2F12%2F39%2F600949c7-2a14-4143-94f8-b16f74d6ebf3%2F35445_RUBui3G_qJhRjNQFsYBj-Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F12%2F12%2F55%2Fa0c29d59-c4ac-48ac-adc9-30751522e77c%2F82083_DfpMYNOJF-gpZq8oSIrAlQ.jpg"
+    ]
   },
   {
     "carId": "49780a90-1a30-44a3-b233-c55e30527a07",
+    "vin": "A3K3XY0B0W1SR2Y0",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2425,12 +2605,15 @@
     },
     "engineVolume": "2700 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F21%2F31%2F03%2Ff4f0b92d-4017-44f2-ab30-7d1bc4baa5e8%2F79794_GKmIEF9I4ui62sR7BCBVlw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F21%2F32%2F31%2F7610452a-d40e-4204-8be0-5f29ad36840c%2F60347_Mmv_fPmPXNTtyGg7z0TpEA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F21%2F32%2F09%2Fab8a21eb-6d6d-42dc-a640-2a717949874e%2F93346_ReoOiiCLsc8rZv7RXoa69A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F21%2F31%2F03%2Ff4f0b92d-4017-44f2-ab30-7d1bc4baa5e8%2F79794_GKmIEF9I4ui62sR7BCBVlw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F21%2F32%2F31%2F7610452a-d40e-4204-8be0-5f29ad36840c%2F60347_Mmv_fPmPXNTtyGg7z0TpEA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F21%2F32%2F09%2Fab8a21eb-6d6d-42dc-a640-2a717949874e%2F93346_ReoOiiCLsc8rZv7RXoa69A.jpg"
+    ]
   },
   {
     "carId": "a368d441-d483-4483-91d8-0048204ff4cf",
+    "vin": "AVG199HLSZRHACAD",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2464,12 +2647,15 @@
     },
     "engineVolume": "2700 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F28%2F02%2F28%2F23%2F4dfa4315-16c8-4d3d-b1b3-62a614713d4d%2F60334_QmTwVZHWigiQwfgEcOt9-w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F28%2F02%2F34%2F33%2F17319574-243e-4e0d-8c67-52fa69521dba%2F60317_DzhTck8sJkpsfiNvip2-jA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F28%2F02%2F34%2F31%2F5989db9d-2530-4af1-ac6a-9cc66b0e29d5%2F99039_3k7WLrfdgcQeDMC7G4gSUg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F28%2F02%2F28%2F23%2F4dfa4315-16c8-4d3d-b1b3-62a614713d4d%2F60334_QmTwVZHWigiQwfgEcOt9-w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F28%2F02%2F34%2F33%2F17319574-243e-4e0d-8c67-52fa69521dba%2F60317_DzhTck8sJkpsfiNvip2-jA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F28%2F02%2F34%2F31%2F5989db9d-2530-4af1-ac6a-9cc66b0e29d5%2F99039_3k7WLrfdgcQeDMC7G4gSUg.jpg"
+    ]
   },
   {
     "carId": "5f633906-1889-4631-95b2-bd45ec90ee14",
+    "vin": "CHT43XHD6FJAFP88",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2504,12 +2690,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F20%2F38%2F44%2F73c73561-af24-4c46-ba59-4a1bac5d809b%2F40032_a6LaE4h8vNAUY169UDTN0Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F20%2F40%2F01%2Fda23970f-d7a5-4114-b9df-91d0df01044a%2F82027_a--0CkyoQSAGmEx0HU3yTw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F20%2F38%2F45%2F560bf07f-b72e-4b8a-960a-4657dee8c19b%2F40069_pTJN0DBrfBatYXlyLUnIog.jpg"]
-    },
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F20%2F38%2F44%2F73c73561-af24-4c46-ba59-4a1bac5d809b%2F40032_a6LaE4h8vNAUY169UDTN0Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F20%2F40%2F01%2Fda23970f-d7a5-4114-b9df-91d0df01044a%2F82027_a--0CkyoQSAGmEx0HU3yTw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F20%2F38%2F45%2F560bf07f-b72e-4b8a-960a-4657dee8c19b%2F40069_pTJN0DBrfBatYXlyLUnIog.jpg"
+    ]
+  },
   {
     "carId": "d80cc18e-44d8-4a4d-936d-b097ec0b053d",
+    "vin": "WBEVZYJ2XH98K5J3",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2543,12 +2732,15 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F05%2F09%2F11%2F45%2F39%2F5bfff8a7-f8a5-45cd-805f-f029d0fa71cb%2F36590_eyMuLQLyfUIN2n-Eeh9kjg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F09%2F11%2F45%2F39%2Fd6f67c70-f5fc-4fe8-bb83-a9f519c48362%2F36551__udUyz4aozUZKPg1K6_e8Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F09%2F11%2F45%2F39%2Fe508868d-f199-4918-ba73-0d379e29ddf9%2F36565_51sK55k7AHKFew3w13G78g.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F09%2F11%2F45%2F39%2F5bfff8a7-f8a5-45cd-805f-f029d0fa71cb%2F36590_eyMuLQLyfUIN2n-Eeh9kjg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F09%2F11%2F45%2F39%2Fd6f67c70-f5fc-4fe8-bb83-a9f519c48362%2F36551__udUyz4aozUZKPg1K6_e8Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F09%2F11%2F45%2F39%2Fe508868d-f199-4918-ba73-0d379e29ddf9%2F36565_51sK55k7AHKFew3w13G78g.jpg"
+    ]
   },
   {
     "carId": "84c3bfe5-e493-488d-86aa-9880631e0cae",
+    "vin": "GVH32VLKJD43P4JP",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2582,13 +2774,16 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F30%2F95169e5b-bc88-4742-8675-567554eca00a%2F15057_Bb1wlnL_TyPClZ9MoPMg4A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F29%2F7b94da3b-80f3-43ff-8377-fccdba6e9efd%2F99077_mrYRI3xp6AuHRjE2WH0Oow.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F11%2Fae51ad4d-90e1-4e2c-8cae-2c8e8d28bfb2%2F98864_wdD1ec7cR5bjqsHXJumJtw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F12%2Fcc34c175-283c-40f1-a973-ea433daeaa12%2F98890_tVuAvfA_Wqd2BGb9Qtnh6g.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F30%2F95169e5b-bc88-4742-8675-567554eca00a%2F15057_Bb1wlnL_TyPClZ9MoPMg4A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F29%2F7b94da3b-80f3-43ff-8377-fccdba6e9efd%2F99077_mrYRI3xp6AuHRjE2WH0Oow.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F11%2Fae51ad4d-90e1-4e2c-8cae-2c8e8d28bfb2%2F98864_wdD1ec7cR5bjqsHXJumJtw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F38%2F12%2Fcc34c175-283c-40f1-a973-ea433daeaa12%2F98890_tVuAvfA_Wqd2BGb9Qtnh6g.jpg"
+    ]
   },
   {
     "carId": "95675af8-21ea-4b40-b748-2caf8347071f",
+    "vin": "JG5TRZR7XAB1EH8T",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2623,13 +2818,16 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F22%2F96d8d676-c339-4c15-a30f-871a256236f8%2F35490_0WLrqFjOQRk8OGAOpncxGw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F21%2Fc083e088-8f20-44fb-8a2e-31ed309aa503%2F35452__SwuT0qb_2UWYFMcTu592A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F20%2F7c1434ba-8ba5-4625-a0a3-f6da73d6c965%2F35454_6GndVH7mxsCR5rlhrqh_KQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F20%2Facfa6e8d-435d-4461-86be-c3472e7a33f9%2F35486_BDY0DIsTtIVSZLMPqC9IIA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F22%2F96d8d676-c339-4c15-a30f-871a256236f8%2F35490_0WLrqFjOQRk8OGAOpncxGw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F21%2Fc083e088-8f20-44fb-8a2e-31ed309aa503%2F35452__SwuT0qb_2UWYFMcTu592A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F20%2F7c1434ba-8ba5-4625-a0a3-f6da73d6c965%2F35454_6GndVH7mxsCR5rlhrqh_KQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F39%2F20%2Facfa6e8d-435d-4461-86be-c3472e7a33f9%2F35486_BDY0DIsTtIVSZLMPqC9IIA.jpg"
+    ]
   },
   {
     "carId": "b764ae4d-ca78-473b-8e9f-10b92c1f27f8",
+    "vin": "PENSNGHTWNX917AR",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2663,12 +2861,15 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F13%2F24%2Fc48103f2-a1c4-4037-bac5-9d8ba82fa721%2F24219_HL5BLE173328Eb2b4QNTJA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F14%2F33%2F87956617-c9d9-4edd-bac2-d313811f68ee%2F60326_BWkuTHaToK-vr4AUpV5A4Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F14%2F34%2F77ac3259-8b23-4671-9f5e-77d53d7f7196%2F60373_JfAi442cX11hUOpYt_kftw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F13%2F24%2Fc48103f2-a1c4-4037-bac5-9d8ba82fa721%2F24219_HL5BLE173328Eb2b4QNTJA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F14%2F33%2F87956617-c9d9-4edd-bac2-d313811f68ee%2F60326_BWkuTHaToK-vr4AUpV5A4Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F20%2F16%2F14%2F34%2F77ac3259-8b23-4671-9f5e-77d53d7f7196%2F60373_JfAi442cX11hUOpYt_kftw.jpg"
+    ]
   },
   {
     "carId": "09b6b69b-653d-4ef9-90f5-a44af9998337",
+    "vin": "PAV0KVU3X1U28JGL",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2704,12 +2905,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F03%2F22%2F10%2F56%2F1968a7dd-534e-48c1-a797-5b8d09f6fd93%2F52806_Lm52C0tc7eXOFWWdNr5hAw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F03%2F22%2F10%2F57%2Fc8801135-eee6-495a-8f7e-ce64001beda4%2F52833_LV6FcnKpVAPprWUEw20awQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F03%2F22%2F10%2F57%2Fe9e6f030-0445-4f73-8e2a-7b13e6f7edd3%2F52797_k3-bikecW7hgGffC03Oclw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F03%2F22%2F10%2F56%2F1968a7dd-534e-48c1-a797-5b8d09f6fd93%2F52806_Lm52C0tc7eXOFWWdNr5hAw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F03%2F22%2F10%2F57%2Fc8801135-eee6-495a-8f7e-ce64001beda4%2F52833_LV6FcnKpVAPprWUEw20awQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F03%2F22%2F10%2F57%2Fe9e6f030-0445-4f73-8e2a-7b13e6f7edd3%2F52797_k3-bikecW7hgGffC03Oclw.jpg"
+    ]
   },
   {
     "carId": "fd276cc4-6292-4e9b-98b1-f3067d8c3c6c",
+    "vin": "P8RUDPP4ACHHSKXG",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2743,13 +2947,16 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F01%2F33071561-a3e9-4c50-9ac7-e68f5867abfa%2F94270_Tqp9SccQnVf5vrSxLp7VMA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F01%2F19e006a2-ed5d-41bd-8900-2fb14d6fad67%2F93350_LZK756ZavzF2BTeIAH1O1A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F17%2F5a02448b-f489-43df-a7fb-f454da94fcfb%2F98893_0ilqJsXIgvcAKHr8z2MfdQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F17%2F8852cbf1-07a3-4bdf-ba97-12c3f89c63f7%2F98890_IWbXLGO1vzI0EJMtPkC8Ww.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F01%2F33071561-a3e9-4c50-9ac7-e68f5867abfa%2F94270_Tqp9SccQnVf5vrSxLp7VMA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F01%2F19e006a2-ed5d-41bd-8900-2fb14d6fad67%2F93350_LZK756ZavzF2BTeIAH1O1A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F17%2F5a02448b-f489-43df-a7fb-f454da94fcfb%2F98893_0ilqJsXIgvcAKHr8z2MfdQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F10%2F04%2F17%2F8852cbf1-07a3-4bdf-ba97-12c3f89c63f7%2F98890_IWbXLGO1vzI0EJMtPkC8Ww.jpg"
+    ]
   },
   {
     "carId": "8dfd1dee-aea4-4e20-aace-ab7acd903b5a",
+    "vin": "9F9JX1K6FY3WAF60",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2783,12 +2990,15 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F26%2F31%2Fef25011a-6f31-42c7-a7d4-421bd55d681d%2F98994_FJFAdx0qfiFGHTlHmmHiHQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F26%2F31%2F205c5ee3-611e-4991-955c-119e0aeb27b9%2F98759_lgUC3inF2xVDdtUq919WTQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F03%2F22%2F11%2F961bc883-1cff-4268-8975-69afe37be729%2F98878_teHM7MZk3ywo-xWRNRrdwQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F26%2F31%2Fef25011a-6f31-42c7-a7d4-421bd55d681d%2F98994_FJFAdx0qfiFGHTlHmmHiHQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F22%2F26%2F31%2F205c5ee3-611e-4991-955c-119e0aeb27b9%2F98759_lgUC3inF2xVDdtUq919WTQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F05%2F03%2F22%2F11%2F961bc883-1cff-4268-8975-69afe37be729%2F98878_teHM7MZk3ywo-xWRNRrdwQ.jpg"
+    ]
   },
   {
     "carId": "a8ed0d87-0808-496f-807e-3777185377ac",
+    "vin": "ZXJNSKZW023X38L9",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2823,12 +3033,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F07%2F21%2F56%2F04%2F618a7f4e-d6ce-4bc3-99c6-b39a3006e2cf%2F31276_IwPUo4TsMZpK2osAHmLdvA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F07%2F21%2F57%2F06%2Fbaf5bd85-ecec-4541-8c79-a2f636c86562%2F31291_IFqyAsAQ7t8LJoP-TcLaog.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F07%2F21%2F56%2F17%2F77685947-ab5c-43f4-bfc2-3a9422be3269%2F89598_hl25bnYdoKd6Zdg0gN2PNg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F07%2F21%2F56%2F04%2F618a7f4e-d6ce-4bc3-99c6-b39a3006e2cf%2F31276_IwPUo4TsMZpK2osAHmLdvA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F07%2F21%2F57%2F06%2Fbaf5bd85-ecec-4541-8c79-a2f636c86562%2F31291_IFqyAsAQ7t8LJoP-TcLaog.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F07%2F21%2F56%2F17%2F77685947-ab5c-43f4-bfc2-3a9422be3269%2F89598_hl25bnYdoKd6Zdg0gN2PNg.jpg"
+    ]
   },
   {
     "carId": "d57ed017-a900-40be-9643-1eab96806933",
+    "vin": "ZSYPVBMT0HPLBBDE",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2861,12 +3074,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F13%2F23%2F07%2F5582d1a1-4d5f-4544-a68f-4f7228f9f9f8%2F79800_GGCOEmE0OvgzN9N5Jg4alw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F13%2F23%2F07%2F958c2a2c-5f1a-4684-93e7-f7ffd1a23fab%2F93346_FwJmC8JWfoKIFwVAD784iA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F13%2F23%2F06%2Faff353ab-5702-4a5d-a071-177da5deb137%2F93342_QV3HgwJMBDqVI1o-16eHSw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F13%2F23%2F07%2F5582d1a1-4d5f-4544-a68f-4f7228f9f9f8%2F79800_GGCOEmE0OvgzN9N5Jg4alw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F13%2F23%2F07%2F958c2a2c-5f1a-4684-93e7-f7ffd1a23fab%2F93346_FwJmC8JWfoKIFwVAD784iA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F13%2F23%2F06%2Faff353ab-5702-4a5d-a071-177da5deb137%2F93342_QV3HgwJMBDqVI1o-16eHSw.jpg"
+    ]
   },
   {
     "carId": "33a86e39-d818-4693-9f2e-f08c48c4a2ee",
+    "vin": "3NB7ML0Y80G9J5N8",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2901,13 +3117,16 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F31%2F52%2Ffb36c53c-9d46-4a91-87d9-ff850be4d8af%2F11302_XN52FgWtx13vtWlKeo296Q.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F31%2F52%2F607af600-bcdf-4a28-9582-4a4adcaa5291%2F99470_eO6LKCIGXwXDBPn-DZSxww.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F31%2F52%2F4a728461-ebac-45f5-bef1-c478eaa5e41d%2F9097_h-t4MI-YzefCWUO-BCbiLQ.jpg",
-            "https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F32%2F30%2Fbf4c8339-9a62-47f9-88f7-4130a3fd4b69%2F41987_wt_8Mk4AxDRTrasg8Fqqig.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F31%2F52%2Ffb36c53c-9d46-4a91-87d9-ff850be4d8af%2F11302_XN52FgWtx13vtWlKeo296Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F31%2F52%2F607af600-bcdf-4a28-9582-4a4adcaa5291%2F99470_eO6LKCIGXwXDBPn-DZSxww.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F31%2F52%2F4a728461-ebac-45f5-bef1-c478eaa5e41d%2F9097_h-t4MI-YzefCWUO-BCbiLQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F11%2F15%2F32%2F30%2Fbf4c8339-9a62-47f9-88f7-4130a3fd4b69%2F41987_wt_8Mk4AxDRTrasg8Fqqig.jpg"
+    ]
   },
   {
     "carId": "ea97c541-bfa8-4a35-92e3-30e120f05d35",
+    "vin": "LGJUTD6K2UDKPH54",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2942,12 +3161,15 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2022%2F11%2F02%2F18%2F16%2F01%2Fb3a1e4b3-e8ab-401b-bb31-9a1625d830bd%2F99543_d-3Y9tLMV_ZscgmPOUHhTA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F11%2F02%2F18%2F16%2F01%2F663c2cc5-f81c-445a-8aa4-e07ed1d8c337%2F62632_K3oxWhldSee52O-PuVITzQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F11%2F02%2F18%2F16%2F01%2Fcb0bfd31-7020-41b2-b4ad-0484621938a5%2F5220_g09JGI0NC44TrSzEfzJNww.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2022%2F11%2F02%2F18%2F16%2F01%2Fb3a1e4b3-e8ab-401b-bb31-9a1625d830bd%2F99543_d-3Y9tLMV_ZscgmPOUHhTA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F11%2F02%2F18%2F16%2F01%2F663c2cc5-f81c-445a-8aa4-e07ed1d8c337%2F62632_K3oxWhldSee52O-PuVITzQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F11%2F02%2F18%2F16%2F01%2Fcb0bfd31-7020-41b2-b4ad-0484621938a5%2F5220_g09JGI0NC44TrSzEfzJNww.jpg"
+    ]
   },
   {
     "carId": "9ec564ee-a4c1-42c0-958d-3d798362dce5",
+    "vin": "XLHKER2Z6JDJGPNL",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -2980,12 +3202,15 @@
     },
     "engineVolume": "3600 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F12%2F20%2F45%2Fa5440a49-36df-4d34-a1aa-a9dcfd26b971%2F60345_Cp4tFofvujgoJXMh4G0h2g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F12%2F20%2F45%2Fadc86c38-44f2-4f9e-b322-b845b2b0d0e2%2F60335_0hGboRon1qEtH8pJIYYUyA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F12%2F20%2F46%2Ffd58abd5-a400-483e-9cf0-185a2f0bafc8%2F60353_yQWapjXh0SdE8A4KJvCmfg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F12%2F20%2F45%2Fa5440a49-36df-4d34-a1aa-a9dcfd26b971%2F60345_Cp4tFofvujgoJXMh4G0h2g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F12%2F20%2F45%2Fadc86c38-44f2-4f9e-b322-b845b2b0d0e2%2F60335_0hGboRon1qEtH8pJIYYUyA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F12%2F20%2F46%2Ffd58abd5-a400-483e-9cf0-185a2f0bafc8%2F60353_yQWapjXh0SdE8A4KJvCmfg.jpg"
+    ]
   },
   {
     "carId": "2c1226eb-232b-4013-b847-fc9c36b4d3e4",
+    "vin": "KX4WP652NWBEV5MV",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3019,12 +3244,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F16%2F42%2F46%2F762630b5-def5-4f97-93ec-877feae5d141%2F35495_Gz5tZ8ycDLK7Rm2PLy4Kkw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F16%2F42%2F45%2Fccc612c8-6da0-4db1-98bd-f646c914c7e1%2F40042_nTPeNxWp695lYFU2nlyE2g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F16%2F42%2F43%2F8f347e16-2fb2-4263-9c37-8460c6586ac4%2F40041_6sDIhW7Y2rolrVMdRPll8Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F16%2F42%2F46%2F762630b5-def5-4f97-93ec-877feae5d141%2F35495_Gz5tZ8ycDLK7Rm2PLy4Kkw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F16%2F42%2F45%2Fccc612c8-6da0-4db1-98bd-f646c914c7e1%2F40042_nTPeNxWp695lYFU2nlyE2g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F16%2F42%2F43%2F8f347e16-2fb2-4263-9c37-8460c6586ac4%2F40041_6sDIhW7Y2rolrVMdRPll8Q.jpg"
+    ]
   },
   {
     "carId": "77956b50-7bab-4473-89ad-958136b79657",
+    "vin": "JFT3SZXN94W32WVA",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3058,12 +3286,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F09%2F56%2F45%2F863855c8-cf47-498a-9f19-0cbb1178bd03%2F99078_NEOT6XGuX6k0RNRLvvST-g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F09%2F56%2F43%2F3047e86d-829d-460f-8296-219de6dad68a%2F98624_wnpxwETTp5I0zB4aiujc8Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F09%2F58%2F41%2Fba06e4ba-e74e-41c7-abee-4b54bf72eaca%2F98857_lUgDYC9v86kubAcs-0n9Rw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F09%2F56%2F45%2F863855c8-cf47-498a-9f19-0cbb1178bd03%2F99078_NEOT6XGuX6k0RNRLvvST-g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F09%2F56%2F43%2F3047e86d-829d-460f-8296-219de6dad68a%2F98624_wnpxwETTp5I0zB4aiujc8Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F09%2F58%2F41%2Fba06e4ba-e74e-41c7-abee-4b54bf72eaca%2F98857_lUgDYC9v86kubAcs-0n9Rw.jpg"
+    ]
   },
   {
     "carId": "99bdea3c-7c4e-4642-b9d8-137b21fe24f7",
+    "vin": "7TD64TSRHMDUFKVB",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3097,12 +3328,15 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F09%2F44%2Fde715cc1-97bc-4d67-b1f0-c37dc3415b68%2F82004_VJ2bp1ltV6m_Hl8he2VfiA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F09%2F45%2Fe43dd550-1c27-4832-b2a5-fcb9ccf74d31%2F35508_wulnIsAJM3PCikY5m2XooQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F09%2F46%2F90ff50d0-3a23-4b7e-a061-04b231f25372%2F35458_5XVFtTmy2WO8kgEAJGuC7Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F09%2F44%2Fde715cc1-97bc-4d67-b1f0-c37dc3415b68%2F82004_VJ2bp1ltV6m_Hl8he2VfiA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F09%2F45%2Fe43dd550-1c27-4832-b2a5-fcb9ccf74d31%2F35508_wulnIsAJM3PCikY5m2XooQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F09%2F46%2F90ff50d0-3a23-4b7e-a061-04b231f25372%2F35458_5XVFtTmy2WO8kgEAJGuC7Q.jpg"
+    ]
   },
   {
     "carId": "fbcc6fff-53bd-4f18-95d8-5763d233e5d5",
+    "vin": "6GGY154AT1KDTAZM",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3137,12 +3371,15 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F15%2F20%2F19%2F34%2F1d6e40bf-4faf-474e-a944-4c0685c9c1c7%2F60353_EU6nACFt1VwtAlfyVxxenw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F15%2F20%2F20%2F25%2Fb60fab5b-687d-4182-9220-89a9b0cc8dec%2F79816_h8Xob0RDpA2jLRaIntVH4Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F15%2F20%2F20%2F13%2Fb871df99-8ff4-4a93-9fdb-2472e7b29efe%2F98839_FZs1GTYZPot4ZVBFFj-47w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F15%2F20%2F19%2F34%2F1d6e40bf-4faf-474e-a944-4c0685c9c1c7%2F60353_EU6nACFt1VwtAlfyVxxenw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F15%2F20%2F20%2F25%2Fb60fab5b-687d-4182-9220-89a9b0cc8dec%2F79816_h8Xob0RDpA2jLRaIntVH4Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F15%2F20%2F20%2F13%2Fb871df99-8ff4-4a93-9fdb-2472e7b29efe%2F98839_FZs1GTYZPot4ZVBFFj-47w.jpg"
+    ]
   },
   {
     "carId": "9bd9c9d5-6cd8-41b5-b981-420e326b3504",
+    "vin": "B4WZPFTB471XD8FJ",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3177,12 +3414,15 @@
     },
     "engineVolume": "3000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F13%2F17%2F10%2Fb5f7e297-005b-4460-90f2-a53176e8ebe0%2F40066_5vRI5iNetHdsemc60r4URg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F13%2F15%2F55%2F078ee94d-7e7c-418d-9ada-576de459789d%2F40011_nhsKaa0BXXFRo7TyXWOD9w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F13%2F14%2F38%2Ff05bbaca-1914-45f3-b67d-67b146e7d524%2F35457_p4xlY7PeozNhby60tNtuwQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F13%2F17%2F10%2Fb5f7e297-005b-4460-90f2-a53176e8ebe0%2F40066_5vRI5iNetHdsemc60r4URg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F13%2F15%2F55%2F078ee94d-7e7c-418d-9ada-576de459789d%2F40011_nhsKaa0BXXFRo7TyXWOD9w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F13%2F14%2F38%2Ff05bbaca-1914-45f3-b67d-67b146e7d524%2F35457_p4xlY7PeozNhby60tNtuwQ.jpg"
+    ]
   },
   {
     "carId": "416fe894-3442-4a38-aab6-3f1aecdb692b",
+    "vin": "7NDVJY1CVXTL9C9L",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3216,12 +3456,15 @@
     },
     "engineVolume": "3600 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F44%2F19%2F0167ac1b-3d46-4d64-9bf6-72d243276f31%2F82047_67AbPXQRkDgXrn9YtFoF1Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F51%2F39%2F466f3028-146a-47dc-8d81-3a1e4f9735cd%2F35487_KndbH6MZpx8kXj44lNBYjA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F48%2F34%2F5caab948-561e-407d-8cda-750fcbd0d780%2F82042_VwYbX2gdQbRq19ny3aOChg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F44%2F19%2F0167ac1b-3d46-4d64-9bf6-72d243276f31%2F82047_67AbPXQRkDgXrn9YtFoF1Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F51%2F39%2F466f3028-146a-47dc-8d81-3a1e4f9735cd%2F35487_KndbH6MZpx8kXj44lNBYjA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F01%2F48%2F34%2F5caab948-561e-407d-8cda-750fcbd0d780%2F82042_VwYbX2gdQbRq19ny3aOChg.jpg"
+    ]
   },
   {
     "carId": "1b7ce7ea-f60b-4e0b-9dd6-1323e9df8b79",
+    "vin": "7Y1S6R5YGXWPMRM1",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3257,13 +3500,16 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F55%2F45%2F57b23413-bd00-4143-afe8-010fcc5b9ffb%2F35453_eb2_KFOyatdYZucLGUD2jA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F55%2F50%2Fc95158ac-0988-4d4e-ae09-0d0a488fbb5d%2F82139_qzTqk5thxOF4PEOPHYaKIA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F56%2F15%2Fe74be221-de31-48c6-a22a-9308726306fe%2F40056_PiFmw7-SaJs4AMcloox9UQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F56%2F33%2Fbf978a3f-c720-4ad5-9464-0740751ef32a%2F82145_8RrXMzwJWYj4Id4eW-V-Fw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F55%2F45%2F57b23413-bd00-4143-afe8-010fcc5b9ffb%2F35453_eb2_KFOyatdYZucLGUD2jA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F55%2F50%2Fc95158ac-0988-4d4e-ae09-0d0a488fbb5d%2F82139_qzTqk5thxOF4PEOPHYaKIA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F56%2F15%2Fe74be221-de31-48c6-a22a-9308726306fe%2F40056_PiFmw7-SaJs4AMcloox9UQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F15%2F23%2F56%2F33%2Fbf978a3f-c720-4ad5-9464-0740751ef32a%2F82145_8RrXMzwJWYj4Id4eW-V-Fw.jpg"
+    ]
   },
   {
     "carId": "a26fc785-0aa2-42b3-9e79-260a0c1509d0",
+    "vin": "8KCFPMC9K7U5N0VC",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3299,13 +3545,16 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F48%2F093e3343-b92d-495a-b325-a15f695cd0f7%2F79800_uHDvl_z7MZUpUC66-a4Etw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F49%2F1a33a911-642e-4646-9ad0-6aed8bba9947%2F79797_HL49-0gmNUBWVUriFyFjOA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F49%2F22ea5403-74be-4e1b-868e-4ee405ac8ad6%2F79844_qVyOsFXmMt3B9KGoQYXofg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F49%2F223f1999-0018-4241-a723-a01f84fb9564%2F93642_YREZtpekmVihb4riAItAOQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F48%2F093e3343-b92d-495a-b325-a15f695cd0f7%2F79800_uHDvl_z7MZUpUC66-a4Etw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F49%2F1a33a911-642e-4646-9ad0-6aed8bba9947%2F79797_HL49-0gmNUBWVUriFyFjOA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F49%2F22ea5403-74be-4e1b-868e-4ee405ac8ad6%2F79844_qVyOsFXmMt3B9KGoQYXofg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F21%2F20%2F07%2F49%2F223f1999-0018-4241-a723-a01f84fb9564%2F93642_YREZtpekmVihb4riAItAOQ.jpg"
+    ]
   },
   {
     "carId": "fb07e980-60b5-4600-aa2c-2c35e41cecb5",
+    "vin": "5XPAM47VUV4XSJG9",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3339,13 +3588,16 @@
     },
     "engineVolume": "4200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F25%2Fcefd8c04-ae46-488f-8c61-91d5903aa8d2%2F35627_9WPSlXtRhB-ATzWJQ8mUvw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F26%2F523fbaa0-00eb-44a0-aed4-b82f9a09aacb%2F35631_3Zg9_1uOok-DFHnK0J5GWw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F25%2Ff8d42302-1cb8-4f1b-970d-934f83d98a1b%2F35650_IFSGDmoK7Yk8fEO_r1RAlA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F25%2F06d33432-20d1-4cad-940f-20bf2905df0b%2F35658_vVpR-6fD_yI0TZ8rc7PYmw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F25%2Fcefd8c04-ae46-488f-8c61-91d5903aa8d2%2F35627_9WPSlXtRhB-ATzWJQ8mUvw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F26%2F523fbaa0-00eb-44a0-aed4-b82f9a09aacb%2F35631_3Zg9_1uOok-DFHnK0J5GWw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F25%2Ff8d42302-1cb8-4f1b-970d-934f83d98a1b%2F35650_IFSGDmoK7Yk8fEO_r1RAlA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F04%2F27%2F22%2F03%2F25%2F06d33432-20d1-4cad-940f-20bf2905df0b%2F35658_vVpR-6fD_yI0TZ8rc7PYmw.jpg"
+    ]
   },
   {
     "carId": "f5372b39-09f8-40b3-928a-566981fe69ec",
+    "vin": "1S9ARD3FK58A2BJR",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3380,13 +3632,16 @@
     },
     "engineVolume": "4000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F16%2Fe2366c92-416f-46d1-a9dd-b9647cc10093%2F25070_girkRc50DacsFo2kqa7Z4g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F34%2F7a0437b5-f5f6-4167-b2e8-41448c789e1e%2F18441_SJhPJSPQvaWPrXNGW4446g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F30%2F33e1a68f-a434-4933-8f21-9a39270a88e9%2F11876_Yp0kDvHhIQH09nPmdNvFrg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F34%2F550cbcfa-c333-4304-a9cc-97cefb208031%2F11859_FHlqoE9ZWwKt_nmaRX6E8Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F16%2Fe2366c92-416f-46d1-a9dd-b9647cc10093%2F25070_girkRc50DacsFo2kqa7Z4g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F34%2F7a0437b5-f5f6-4167-b2e8-41448c789e1e%2F18441_SJhPJSPQvaWPrXNGW4446g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F30%2F33e1a68f-a434-4933-8f21-9a39270a88e9%2F11876_Yp0kDvHhIQH09nPmdNvFrg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2022%2F09%2F01%2F10%2F52%2F34%2F550cbcfa-c333-4304-a9cc-97cefb208031%2F11859_FHlqoE9ZWwKt_nmaRX6E8Q.jpg"
+    ]
   },
   {
     "carId": "f4e96922-c9a6-47f5-9021-91ef59e052c2",
+    "vin": "TZEPLPF8GTKPZWF9",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3421,12 +3676,15 @@
     },
     "engineVolume": "4000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F05%2F06%2F20%2F22%2F35%2F8a4f349c-b5dc-4fd8-bb47-be2ce942835d%2F35656_GxYLc-MKeMrvGr6aVJCjvQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F06%2F20%2F26%2F51%2Fd6aeb2b8-b9d3-403e-becd-20ff86f9553c%2F36506_gTr-0BfIhLe4I8uIgboMhw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F05%2F06%2F20%2F22%2F59%2F900a1bf4-5888-47af-bfb4-299b1d659d6e%2F86730_L11RYQDhMPOK4wlDerjHWQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F06%2F20%2F22%2F35%2F8a4f349c-b5dc-4fd8-bb47-be2ce942835d%2F35656_GxYLc-MKeMrvGr6aVJCjvQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F06%2F20%2F26%2F51%2Fd6aeb2b8-b9d3-403e-becd-20ff86f9553c%2F36506_gTr-0BfIhLe4I8uIgboMhw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F05%2F06%2F20%2F22%2F59%2F900a1bf4-5888-47af-bfb4-299b1d659d6e%2F86730_L11RYQDhMPOK4wlDerjHWQ.jpg"
+    ]
   },
   {
     "carId": "fac5ab8f-ef16-466f-8582-44a50e0e340d",
+    "vin": "Z6ML3WUUT0M551FH",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3458,12 +3716,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F15%2F27%2F11%2F086370d7-97fd-4696-ac57-e7bda27ef163%2F40049_V6I4rsQlSeAbY5rkaQN8VA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F15%2F27%2F11%2Ff628af01-7a47-44cd-a070-c7effb9e8c7b%2F40060_VKJKxxqeDRoVK84vriXXWA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F15%2F27%2F11%2F8187a876-3dc8-414d-ac0f-b54676a3cad3%2F40053_pUiBGIAkEZSkGHi9CzBWBg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F15%2F27%2F11%2F086370d7-97fd-4696-ac57-e7bda27ef163%2F40049_V6I4rsQlSeAbY5rkaQN8VA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F15%2F27%2F11%2Ff628af01-7a47-44cd-a070-c7effb9e8c7b%2F40060_VKJKxxqeDRoVK84vriXXWA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F14%2F15%2F27%2F11%2F8187a876-3dc8-414d-ac0f-b54676a3cad3%2F40053_pUiBGIAkEZSkGHi9CzBWBg.jpg"
+    ]
   },
   {
     "carId": "92bed5b0-7ff7-490a-8371-6f937273d07e",
+    "vin": "Z46JXZPM9TJTGLYU",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3497,12 +3758,15 @@
     },
     "engineVolume": "3200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F02%2F01%2F41%2Ffc9f8ee7-57a6-49da-9513-af9d878eac52%2F98854_IlqEZCBU4VhGxykCimbLkg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F02%2F01%2F41%2Fd3006f67-27d5-4aba-a76b-2d5927c299ae%2F98890_1pEUvtTJuZmuzjFUi1gXuw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F02%2F01%2F42%2F58f22ffd-33a9-46e8-bcf1-472cb5905afd%2F98994_2vtyKFBC8aPfNFBJjCIO2A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F02%2F01%2F41%2Ffc9f8ee7-57a6-49da-9513-af9d878eac52%2F98854_IlqEZCBU4VhGxykCimbLkg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F02%2F01%2F41%2Fd3006f67-27d5-4aba-a76b-2d5927c299ae%2F98890_1pEUvtTJuZmuzjFUi1gXuw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F02%2F01%2F42%2F58f22ffd-33a9-46e8-bcf1-472cb5905afd%2F98994_2vtyKFBC8aPfNFBJjCIO2A.jpg"
+    ]
   },
   {
     "carId": "40358e15-55d4-45c4-ba86-b2da179bea39",
+    "vin": "FSMVFFGJVTY467EW",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3531,12 +3795,15 @@
     },
     "engineVolume": "1600 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F19%2F09%2F26%2F2bc7e124-f15d-458b-b9ee-50daf6ece748%2F82037_iraa2D5vAYqeIUZhLB4nDw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F19%2F09%2F31%2F8c330e2f-2659-4a58-a532-0c1bb40ad1d9%2F35493_XppWcLJLsKetuqBjm8f2ug.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F19%2F07%2F33%2Fb6069834-d11b-4061-9329-5675229f6491%2F35430_Tut-ZHywMmU4AGDHJIzM_Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F19%2F09%2F26%2F2bc7e124-f15d-458b-b9ee-50daf6ece748%2F82037_iraa2D5vAYqeIUZhLB4nDw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F19%2F09%2F31%2F8c330e2f-2659-4a58-a532-0c1bb40ad1d9%2F35493_XppWcLJLsKetuqBjm8f2ug.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F16%2F19%2F07%2F33%2Fb6069834-d11b-4061-9329-5675229f6491%2F35430_Tut-ZHywMmU4AGDHJIzM_Q.jpg"
+    ]
   },
   {
     "carId": "1cdf495f-fa7d-4d93-84f9-4a1f611e7ab0",
+    "vin": "YKJAAUY3S1J8M33U",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3564,12 +3831,15 @@
     },
     "engineVolume": "1600 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F16%2F58%2F31%2F1e2ac299-50b9-492c-ab26-dc80be7ca48c%2F82107_67b7NOKTgPZ9IV0mH8qSsg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F16%2F58%2F32%2F5f24ee12-24c9-4c7d-a3d6-8a07e1cde0ec%2F81984_A-bx3o1Ku31KhF0_GIf5kw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F16%2F58%2F31%2F45b96fcf-c098-4a14-ae3b-b02074a48a7b%2F82146_2CB494Z3E3pnuh-wei_uAw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F16%2F58%2F31%2F1e2ac299-50b9-492c-ab26-dc80be7ca48c%2F82107_67b7NOKTgPZ9IV0mH8qSsg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F16%2F58%2F32%2F5f24ee12-24c9-4c7d-a3d6-8a07e1cde0ec%2F81984_A-bx3o1Ku31KhF0_GIf5kw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F16%2F58%2F31%2F45b96fcf-c098-4a14-ae3b-b02074a48a7b%2F82146_2CB494Z3E3pnuh-wei_uAw.jpg"
+    ]
   },
   {
     "carId": "f6de9cec-2bda-44ed-b521-097b66d53e7a",
+    "vin": "XY93AU1PN84C0LLC",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3598,12 +3868,15 @@
     },
     "engineVolume": "1600 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F48%2F08%2Fcded4c57-d07c-4654-81b1-0686bd4b092a%2F35443_rmcUMwop3RBo0_YGauAiAQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F48%2F03%2F837bf59d-fa0b-436e-a07e-b41f4842d644%2F35463_Q2A4sQL09YppCoywmkY46g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F48%2F05%2F99a08e12-eefa-4d5d-9495-79efe0076680%2F35449_e6Hhado-xPO75yb_tg7XfQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F48%2F08%2Fcded4c57-d07c-4654-81b1-0686bd4b092a%2F35443_rmcUMwop3RBo0_YGauAiAQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F48%2F03%2F837bf59d-fa0b-436e-a07e-b41f4842d644%2F35463_Q2A4sQL09YppCoywmkY46g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F18%2F48%2F05%2F99a08e12-eefa-4d5d-9495-79efe0076680%2F35449_e6Hhado-xPO75yb_tg7XfQ.jpg"
+    ]
   },
   {
     "carId": "0724f8ee-7d3d-473b-a5cf-6a06057642f0",
+    "vin": "MNNY9Y3MUSLNX2ZH",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3636,12 +3909,15 @@
     },
     "engineVolume": "1900 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F12%2F45%2F20%2F3f9565eb-dd69-4ab2-b19d-1a82a43ef034%2F40057_79A1W4dTw80rCbe-2Pxbdg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F12%2F45%2F22%2Feffbcdab-aa6a-4a99-b0e2-051500d1cc21%2F40018_xHQH_U2nobBrdxBTvMjKOg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F12%2F45%2F25%2F1cba70da-b953-4d1e-b5c2-04f0c4932c40%2F82070_FdNONBeHKycrV9Ux78J7HA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F12%2F45%2F20%2F3f9565eb-dd69-4ab2-b19d-1a82a43ef034%2F40057_79A1W4dTw80rCbe-2Pxbdg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F12%2F45%2F22%2Feffbcdab-aa6a-4a99-b0e2-051500d1cc21%2F40018_xHQH_U2nobBrdxBTvMjKOg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F12%2F12%2F45%2F25%2F1cba70da-b953-4d1e-b5c2-04f0c4932c40%2F82070_FdNONBeHKycrV9Ux78J7HA.jpg"
+    ]
   },
   {
     "carId": "5df441bc-0897-4ea4-a7d8-2e054316c886",
+    "vin": "PBMT9JKSP2MP01EA",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3670,12 +3946,15 @@
     },
     "engineVolume": "1600 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F20%2F56%2F28%2Fa49c7f60-0342-4080-b796-5f76ad3c2c47%2F35499_9PB6UfP3dz4oRJ8GJCUbGg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F20%2F57%2F16%2Ff6beff67-ffdd-4f43-ad5d-88873ee07576%2F35457_pk0N8fHjShs8Gr3pw8wMvw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F20%2F56%2F42%2Ffe9df0f3-001a-4355-b511-852cc272881d%2F35438_CQMrYNyBndqp9C1jpTb74w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F20%2F56%2F28%2Fa49c7f60-0342-4080-b796-5f76ad3c2c47%2F35499_9PB6UfP3dz4oRJ8GJCUbGg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F20%2F57%2F16%2Ff6beff67-ffdd-4f43-ad5d-88873ee07576%2F35457_pk0N8fHjShs8Gr3pw8wMvw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F20%2F56%2F42%2Ffe9df0f3-001a-4355-b511-852cc272881d%2F35438_CQMrYNyBndqp9C1jpTb74w.jpg"
+    ]
   },
   {
     "carId": "eacebb0e-3fe1-443d-b8a7-c80f7a47546e",
+    "vin": "N6M3KRVTTJ05NJCZ",
     "attributes": [
       "ABS",
       "CD-\u00C7encer",
@@ -3704,12 +3983,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F18%2F00%2F57%2F18197dc9-ec66-4b4c-afff-626f68625619%2F43694_qz5bMAe9dsdDThuMIZq7IA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F18%2F00%2F57%2F95993601-41d2-4167-9bd4-4859cffd95d8%2F43704_iusFz_r1gxLnLC2PxMrewA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F17%2F56%2F50%2F86e0cdf9-2ce0-4a09-a552-d4864f1d8db7%2F74317_Uz1sli6tlj117q5gVZN8TQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F18%2F00%2F57%2F18197dc9-ec66-4b4c-afff-626f68625619%2F43694_qz5bMAe9dsdDThuMIZq7IA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F18%2F00%2F57%2F95993601-41d2-4167-9bd4-4859cffd95d8%2F43704_iusFz_r1gxLnLC2PxMrewA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F06%2F17%2F56%2F50%2F86e0cdf9-2ce0-4a09-a552-d4864f1d8db7%2F74317_Uz1sli6tlj117q5gVZN8TQ.jpg"
+    ]
   },
   {
     "carId": "73e58a24-149a-4080-b4a2-a1a7da3c904d",
+    "vin": "EDNVVY0VTAEKMB52",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3739,13 +4021,16 @@
     },
     "engineVolume": "1600 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F37%2F16%2Faf1f7495-aef8-4c66-90aa-aea33aa5c7f6%2F93739__MQcM_npSRzSXYJMKT0fvQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F38%2F16%2F67002a3c-3a7a-43e0-b6de-0b1d26a3ca10%2F93341_p-zypOwU5Mpnipb5xyou9Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F38%2F21%2Fdb5d9062-9639-4621-85fb-9f9e562fc8c8%2F60371__PG5g9s7H2YaC-kf1ZWmnQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F37%2F32%2F6e022f6b-f267-4286-882d-b2850f5fcb90%2F60335_Ne8pKmDEoR0nOZaiCDiBLg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F37%2F16%2Faf1f7495-aef8-4c66-90aa-aea33aa5c7f6%2F93739__MQcM_npSRzSXYJMKT0fvQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F38%2F16%2F67002a3c-3a7a-43e0-b6de-0b1d26a3ca10%2F93341_p-zypOwU5Mpnipb5xyou9Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F38%2F21%2Fdb5d9062-9639-4621-85fb-9f9e562fc8c8%2F60371__PG5g9s7H2YaC-kf1ZWmnQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F04%2F23%2F37%2F32%2F6e022f6b-f267-4286-882d-b2850f5fcb90%2F60335_Ne8pKmDEoR0nOZaiCDiBLg.jpg"
+    ]
   },
   {
     "carId": "f280a221-457e-43b2-8e2d-ebc33f737ebb",
+    "vin": "Z6AJPLR0FLYSDCFW",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3777,12 +4062,15 @@
     },
     "engineVolume": "1900 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F17%2F19%2F45%2F04%2Fdbd7482a-6469-45ff-b1cc-0f047267f6db%2F82149_wyQtuwREor3X6YyHU0iN9Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F17%2F19%2F48%2F25%2Fcd5f4cd9-49b7-4a2a-8f34-fa0b44b31623%2F35455_faaPngiI9aeZiGr1kqHojA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F17%2F19%2F45%2F38%2Ffaec1f8a-8126-4726-a1f5-0deb07955621%2F35495_fy8LGT_iaCWL_pWDKoEQ_A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F17%2F19%2F45%2F04%2Fdbd7482a-6469-45ff-b1cc-0f047267f6db%2F82149_wyQtuwREor3X6YyHU0iN9Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F17%2F19%2F48%2F25%2Fcd5f4cd9-49b7-4a2a-8f34-fa0b44b31623%2F35455_faaPngiI9aeZiGr1kqHojA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F17%2F19%2F45%2F38%2Ffaec1f8a-8126-4726-a1f5-0deb07955621%2F35495_fy8LGT_iaCWL_pWDKoEQ_A.jpg"
+    ]
   },
   {
     "carId": "d9740ecb-61f4-4c8e-9744-056ee317b593",
+    "vin": "19JK2J17C6ULMJ61",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "M\u0259rk\u0259zi qapanma",
@@ -3808,12 +4096,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F09%2F21%2F24%2F27%2F39a4e124-d65a-409c-aefe-2a10f68b9295%2F15047_pOh5wqEQfw_it5Xy3QQPPw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F09%2F21%2F24%2F35%2Fb01c58bd-c73e-428b-b5de-53bc93ab4a1b%2F79831_0xgTJzY8ZiqdfIv7ZMCsCg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F09%2F21%2F24%2F34%2Fd9fa15a2-f71a-44be-8386-2f0ee1273f13%2F60349_ewxS5-uitTOxeu2hLO3q2A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F09%2F21%2F24%2F27%2F39a4e124-d65a-409c-aefe-2a10f68b9295%2F15047_pOh5wqEQfw_it5Xy3QQPPw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F09%2F21%2F24%2F35%2Fb01c58bd-c73e-428b-b5de-53bc93ab4a1b%2F79831_0xgTJzY8ZiqdfIv7ZMCsCg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F09%2F21%2F24%2F34%2Fd9fa15a2-f71a-44be-8386-2f0ee1273f13%2F60349_ewxS5-uitTOxeu2hLO3q2A.jpg"
+    ]
   },
   {
     "carId": "197076b4-897d-4591-ab81-48260beacc94",
+    "vin": "C2WD0J18GC1NNZ6N",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3844,12 +4135,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F10%2F53%2F18%2Fd809745f-33d3-4a18-b27b-c6b9dd2e31f0%2F4873_AlopuDvr4YUG46TdYSbxqg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F10%2F53%2F19%2Fcaaf2529-f6fb-44bf-b2c7-1ef63ce0f170%2F4815_Oo9gtUD32z85iiHhY54spw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F10%2F53%2F22%2F67d04125-b018-40ec-8daf-efb17c3fccd0%2F4851_47700uskNPVWqe4aBWny4w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F10%2F53%2F18%2Fd809745f-33d3-4a18-b27b-c6b9dd2e31f0%2F4873_AlopuDvr4YUG46TdYSbxqg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F10%2F53%2F19%2Fcaaf2529-f6fb-44bf-b2c7-1ef63ce0f170%2F4815_Oo9gtUD32z85iiHhY54spw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F10%2F10%2F53%2F22%2F67d04125-b018-40ec-8daf-efb17c3fccd0%2F4851_47700uskNPVWqe4aBWny4w.jpg"
+    ]
   },
   {
     "carId": "d359c6cc-c8e5-4211-8e5d-3d3b45bf6bda",
+    "vin": "UN3L5A7969REXXPZ",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3878,12 +4172,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F44%2F22%2F56ded235-52c9-4a49-9b2b-f381836663aa%2F40041_FKIzMdChqvMfpSyoi9QNsQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F44%2F22%2F055d8a4e-2d3a-4e73-b745-86f458df6dd8%2F40065_rQZocW5L1vfJHBfhWZOYxw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F44%2F30%2Fbba8fc2a-8be3-4142-9f16-797af9b14ee0%2F40056_z6Xf5wf1uVprvS7Pd9zmqQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F44%2F22%2F56ded235-52c9-4a49-9b2b-f381836663aa%2F40041_FKIzMdChqvMfpSyoi9QNsQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F44%2F22%2F055d8a4e-2d3a-4e73-b745-86f458df6dd8%2F40065_rQZocW5L1vfJHBfhWZOYxw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F44%2F30%2Fbba8fc2a-8be3-4142-9f16-797af9b14ee0%2F40056_z6Xf5wf1uVprvS7Pd9zmqQ.jpg"
+    ]
   },
   {
     "carId": "872300ec-ae87-44a0-8169-23635841fc23",
+    "vin": "PFSDD3VD7L0BY72D",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3918,13 +4215,16 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F33%2F5ea1aa30-0a8c-4125-81a7-a854ca6b0ce6%2F82027_3FxbCcTNk6jmEGxpeaEfRQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F28%2F2005e259-7718-45ab-9b45-7134e22ad6c8%2F82047_WVBA70yPHFq67bSnasNoEA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F35%2F964c2d68-06e0-48da-a19a-e85b05517037%2F35443_we9uckv8kIj5auVgRpHUvg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F32%2Fabc99357-8264-444f-86ff-1836530942e0%2F82120_WnZsrTpDSYEJUBnqi--G2w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F33%2F5ea1aa30-0a8c-4125-81a7-a854ca6b0ce6%2F82027_3FxbCcTNk6jmEGxpeaEfRQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F28%2F2005e259-7718-45ab-9b45-7134e22ad6c8%2F82047_WVBA70yPHFq67bSnasNoEA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F35%2F964c2d68-06e0-48da-a19a-e85b05517037%2F35443_we9uckv8kIj5auVgRpHUvg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F23%2F35%2F32%2Fabc99357-8264-444f-86ff-1836530942e0%2F82120_WnZsrTpDSYEJUBnqi--G2w.jpg"
+    ]
   },
   {
     "carId": "85648e20-7490-4ed2-af3e-3f77b88c45d2",
+    "vin": "WM99URLSGDY7MBP3",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3954,12 +4254,15 @@
     },
     "engineVolume": "1900 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F30%2F20%2Fa5c53ade-7569-4984-b7f4-b85861b2d168%2F35449_tzCzmywJXTSx6vtGDezJMA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F30%2F26%2Fed43cbd5-72e1-4a1d-b824-ec52aeef2381%2F40068_HDznWD3J1mVQRcP9F0Lpbw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F30%2F36%2F6c25acae-ef8d-49b6-9c7e-f1cd9c4a507c%2F82104_ftd6qMLgeVXIgOED7phUkQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F30%2F20%2Fa5c53ade-7569-4984-b7f4-b85861b2d168%2F35449_tzCzmywJXTSx6vtGDezJMA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F30%2F26%2Fed43cbd5-72e1-4a1d-b824-ec52aeef2381%2F40068_HDznWD3J1mVQRcP9F0Lpbw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F30%2F36%2F6c25acae-ef8d-49b6-9c7e-f1cd9c4a507c%2F82104_ftd6qMLgeVXIgOED7phUkQ.jpg"
+    ]
   },
   {
     "carId": "52e33b10-3019-4d1f-9586-a13439e4021c",
+    "vin": "RKHKR1L97JXFUACW",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -3993,12 +4296,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F16%2F28%2F13%2F82bb6139-1feb-46c8-837d-5d921e92c7a1%2F35498_HQHp4SHersHPNfqgkDpB-Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F16%2F28%2F36%2Fdf578765-ca4c-4c8b-bc16-eb3bd4325edf%2F40074_KRUUHGgvJIcFNb9bwdIA1g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F16%2F30%2F12%2Fc0c6ac5a-e43d-4200-bdca-49b8d30980f8%2F82129_M_JACLZ5t08RN3ja2MhN7Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F16%2F28%2F13%2F82bb6139-1feb-46c8-837d-5d921e92c7a1%2F35498_HQHp4SHersHPNfqgkDpB-Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F16%2F28%2F36%2Fdf578765-ca4c-4c8b-bc16-eb3bd4325edf%2F40074_KRUUHGgvJIcFNb9bwdIA1g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F16%2F30%2F12%2Fc0c6ac5a-e43d-4200-bdca-49b8d30980f8%2F82129_M_JACLZ5t08RN3ja2MhN7Q.jpg"
+    ]
   },
   {
     "carId": "6d3d4559-f57d-43a0-b571-5113b43ad62e",
+    "vin": "983TG2CT2VEKUE59",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4027,12 +4333,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F19%2F21%2F10%2F21%2Ff2b46e17-2721-4eef-9b8e-31ab6f48ed84%2F82129_btY4aQc23iprY59rIi3m3Q.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F19%2F21%2F10%2F21%2F3efdee68-743b-49b8-b92a-9431b25b275b%2F82047_Rd4ZrafrebTHcI4OZTD1FA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F19%2F21%2F10%2F21%2Fe3d147c1-addb-4319-88f1-fb1eec31a707%2F82089_C6E2CaMeezSmbVwbqDVUiw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F19%2F21%2F10%2F21%2Ff2b46e17-2721-4eef-9b8e-31ab6f48ed84%2F82129_btY4aQc23iprY59rIi3m3Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F19%2F21%2F10%2F21%2F3efdee68-743b-49b8-b92a-9431b25b275b%2F82047_Rd4ZrafrebTHcI4OZTD1FA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F19%2F21%2F10%2F21%2Fe3d147c1-addb-4319-88f1-fb1eec31a707%2F82089_C6E2CaMeezSmbVwbqDVUiw.jpg"
+    ]
   },
   {
     "carId": "80b78960-6fe9-44ad-bfcb-bf7b2b7a4afa",
+    "vin": "SLP9XEEPPX7MAPFY",
     "attributes": [
       "ABS",
       "CD-\u00C7encer",
@@ -4061,12 +4370,15 @@
     },
     "engineVolume": "1900 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F09%2F29%2F38%2Fb088d4bf-5f6b-40f2-9ab7-abdd36804c5d%2F35449_SJx3Hc_wOXIfFmwQrIiuKQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F09%2F29%2F54%2F9ae8ed04-1785-4e19-917f-08f734da7e95%2F35489_TYVxW0FDTpzi0Rk_IIDHFw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F15%2F21%2F16%2Fc30c920f-63d0-47a1-810a-adc477cafd24%2F40049_O8agK3m-MsAKr2A_SHZHLw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F09%2F29%2F38%2Fb088d4bf-5f6b-40f2-9ab7-abdd36804c5d%2F35449_SJx3Hc_wOXIfFmwQrIiuKQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F09%2F29%2F54%2F9ae8ed04-1785-4e19-917f-08f734da7e95%2F35489_TYVxW0FDTpzi0Rk_IIDHFw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F15%2F21%2F16%2Fc30c920f-63d0-47a1-810a-adc477cafd24%2F40049_O8agK3m-MsAKr2A_SHZHLw.jpg"
+    ]
   },
   {
     "carId": "24b7aaea-be15-4926-95e1-23953d3ad818",
+    "vin": "3CESX5KAZ8KFKBSY",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4100,12 +4412,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F01%2F32%2F18%2F7cfe2901-8179-4ef3-9c40-b11dbf111747%2F40013_OOsjJiIFNjdqnBMhulCTAA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F01%2F32%2F39%2Ff404036a-ab44-4d2f-8182-36460ae8a178%2F40072_BWm9QPia3zAMfwavwEqiWw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F01%2F32%2F39%2Ff2ad928e-42d2-4e6c-a1dc-42147c9f93a7%2F40072_BIyvvAwcgDLhQ0-LUY_AKw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F01%2F32%2F18%2F7cfe2901-8179-4ef3-9c40-b11dbf111747%2F40013_OOsjJiIFNjdqnBMhulCTAA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F01%2F32%2F39%2Ff404036a-ab44-4d2f-8182-36460ae8a178%2F40072_BWm9QPia3zAMfwavwEqiWw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F01%2F32%2F39%2Ff2ad928e-42d2-4e6c-a1dc-42147c9f93a7%2F40072_BIyvvAwcgDLhQ0-LUY_AKw.jpg"
+    ]
   },
   {
     "carId": "2649c134-e99b-4a4c-8ec4-6082187f4645",
+    "vin": "H2KLHSEYC17LBZ8Z",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4134,12 +4449,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F23%2F19%2Fc38d8098-f61e-4b94-8af1-3770cb203058%2F35432_Oo5BGUvQxqIH3MwyLXC0Fw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F23%2F22%2Fad75880e-777e-446f-b7b0-b609982431f0%2F82042_EDHUTJd9-CUOZ5Dtco0a3w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F23%2F16%2F70dd701f-dc40-49d7-a7f9-74a6bd6d19e9%2F35483_WaQQsYZdEHF1B4Um6AKuZQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F23%2F19%2Fc38d8098-f61e-4b94-8af1-3770cb203058%2F35432_Oo5BGUvQxqIH3MwyLXC0Fw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F23%2F22%2Fad75880e-777e-446f-b7b0-b609982431f0%2F82042_EDHUTJd9-CUOZ5Dtco0a3w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F23%2F16%2F70dd701f-dc40-49d7-a7f9-74a6bd6d19e9%2F35483_WaQQsYZdEHF1B4Um6AKuZQ.jpg"
+    ]
   },
   {
     "carId": "52234104-dbae-4f02-9c93-d1c1695ad18c",
+    "vin": "UZ7K7JDDRJWV598E",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4169,12 +4487,15 @@
     },
     "engineVolume": "1900 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F12%2F54%2F02%2Fe768c15e-e2b8-42ea-88ef-a89615264f4a%2F35430_IGZKzVXgWlkanCuZ-qiWhA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F12%2F54%2F02%2F7914e8c3-57d5-4a11-8128-865239e42e8d%2F35454_Y9ZUnHWLgWICt1JknidMRA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F12%2F54%2F03%2F19d6d005-2cad-454d-bbd1-593e72deeaa3%2F35454_gPwwU0C2lRIQZTZNxOlPww.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F12%2F54%2F02%2Fe768c15e-e2b8-42ea-88ef-a89615264f4a%2F35430_IGZKzVXgWlkanCuZ-qiWhA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F12%2F54%2F02%2F7914e8c3-57d5-4a11-8128-865239e42e8d%2F35454_Y9ZUnHWLgWICt1JknidMRA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F12%2F54%2F03%2F19d6d005-2cad-454d-bbd1-593e72deeaa3%2F35454_gPwwU0C2lRIQZTZNxOlPww.jpg"
+    ]
   },
   {
     "carId": "949042b0-576b-469d-bc5e-f1ebc79a1e9f",
+    "vin": "Z6RPTRS5HWRFLK20",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4202,12 +4523,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F08%2F42%2F43%2Fe0b87995-7a57-4405-8251-a0ee12c13a14%2F40071_8RMgAj5y6EGPCQtrdGxbUw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F08%2F42%2F10%2F3ed2e881-0f11-4fb0-b96d-fe77c6595090%2F82072_pw-IwcVGTBuQBsH7pKVgkw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F08%2F42%2F43%2F1c2004d7-81cb-4951-8ab2-50b2a10fee81%2F40048_AMmKaBQeKX9AyC5JrREGLA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F08%2F42%2F43%2Fe0b87995-7a57-4405-8251-a0ee12c13a14%2F40071_8RMgAj5y6EGPCQtrdGxbUw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F08%2F42%2F10%2F3ed2e881-0f11-4fb0-b96d-fe77c6595090%2F82072_pw-IwcVGTBuQBsH7pKVgkw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F08%2F42%2F43%2F1c2004d7-81cb-4951-8ab2-50b2a10fee81%2F40048_AMmKaBQeKX9AyC5JrREGLA.jpg"
+    ]
   },
   {
     "carId": "0a9651f1-1188-44bd-9689-f46eea5f62b5",
+    "vin": "F0RR8MMTSX38GE3V",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4239,12 +4563,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F22%2F10%2F46%2F27%2F017ad88c-368c-4de7-a386-adb76c634dd5%2F82062_xTaaZ-RVPLFuHgTQ-oj0rw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F22%2F10%2F46%2F24%2Ffc51ccb5-479b-4102-8ffb-433779f6aa7d%2F82019_E04Of2gYd_6bMXNcbQcZPA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F22%2F10%2F46%2F26%2F10aebf3b-8d30-4056-99d1-65fe58eef452%2F82148_wAU7I-HfKV861aqLWHCX-w.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F22%2F10%2F46%2F27%2F017ad88c-368c-4de7-a386-adb76c634dd5%2F82062_xTaaZ-RVPLFuHgTQ-oj0rw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F22%2F10%2F46%2F24%2Ffc51ccb5-479b-4102-8ffb-433779f6aa7d%2F82019_E04Of2gYd_6bMXNcbQcZPA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F22%2F10%2F46%2F26%2F10aebf3b-8d30-4056-99d1-65fe58eef452%2F82148_wAU7I-HfKV861aqLWHCX-w.jpg"
+    ]
   },
   {
     "carId": "9d2c0658-27a5-4d4a-a974-8c500a19de46",
+    "vin": "07WLKGC1KD1AAGC0",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4274,12 +4601,15 @@
     },
     "engineVolume": "1800 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F21%2F18%2F28%2F36%2Fb94af3c5-c039-479e-b212-76626ca5a50d%2F40057_9FzMhKZApwH3lvEDlDsaQQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F21%2F18%2F31%2F55%2Ff69cd0a8-70b5-46e9-b661-46d8b38a0f1a%2F40044_FkDwRBc1QLBlrCMLtMfQ-A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F21%2F18%2F29%2F39%2F8b9bff9d-39c6-4751-aeb9-ff719140858d%2F35438_PM-xFIpIrFjhwNXUBTHZ4A.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F21%2F18%2F28%2F36%2Fb94af3c5-c039-479e-b212-76626ca5a50d%2F40057_9FzMhKZApwH3lvEDlDsaQQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F21%2F18%2F31%2F55%2Ff69cd0a8-70b5-46e9-b661-46d8b38a0f1a%2F40044_FkDwRBc1QLBlrCMLtMfQ-A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F21%2F18%2F29%2F39%2F8b9bff9d-39c6-4751-aeb9-ff719140858d%2F35438_PM-xFIpIrFjhwNXUBTHZ4A.jpg"
+    ]
   },
   {
     "carId": "98ac4440-0583-4040-be58-ef722c3105e8",
+    "vin": "0ZC0FKG9WF7B4E7P",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4311,13 +4641,16 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F27%2F704c523f-c2c1-44ea-99e5-d37f9bdd3203%2F82107_j7Av2QLccsiHmN-qDkE5KA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F31%2Ffe35a4dd-db30-41e0-9055-a722a48fa8cd%2F40059_5DyS9vfYRnyidtykP3bLtQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F34%2F7cea828d-9d52-46aa-9d22-452c316e8821%2F40035_uhUieOvx725pn5kywZlxfQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F32%2F6824cce9-71df-4d36-a311-036a29544052%2F40070_PyMsB4lVJzA9jT1qRMmsUg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F27%2F704c523f-c2c1-44ea-99e5-d37f9bdd3203%2F82107_j7Av2QLccsiHmN-qDkE5KA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F31%2Ffe35a4dd-db30-41e0-9055-a722a48fa8cd%2F40059_5DyS9vfYRnyidtykP3bLtQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F34%2F7cea828d-9d52-46aa-9d22-452c316e8821%2F40035_uhUieOvx725pn5kywZlxfQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F20%2F19%2F49%2F32%2F6824cce9-71df-4d36-a311-036a29544052%2F40070_PyMsB4lVJzA9jT1qRMmsUg.jpg"
+    ]
   },
   {
     "carId": "72d9a8a8-9369-4b1b-b75a-f1fc1006f256",
+    "vin": "9301PM1VK7XTTUTP",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4347,12 +4680,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F02%2F42%2F16%2F1eeab111-add1-4be3-bd4a-516499819c12%2F21023_v04jjyzlXy5W_2I6qYQZsQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F02%2F42%2F16%2F5dd680af-18b4-4a2f-8ed5-30fbf2101f29%2F21026_Mjwy0R7tIcdNJkDIMQQe3g.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F02%2F42%2F16%2F04329f9b-5b82-4fb6-9df4-fe1f1ce9f76b%2F21020_wvhiPaGtb8NLUltp4tbdDA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F02%2F42%2F16%2F1eeab111-add1-4be3-bd4a-516499819c12%2F21023_v04jjyzlXy5W_2I6qYQZsQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F02%2F42%2F16%2F5dd680af-18b4-4a2f-8ed5-30fbf2101f29%2F21026_Mjwy0R7tIcdNJkDIMQQe3g.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F01%2F02%2F42%2F16%2F04329f9b-5b82-4fb6-9df4-fe1f1ce9f76b%2F21020_wvhiPaGtb8NLUltp4tbdDA.jpg"
+    ]
   },
   {
     "carId": "51c45d16-99e5-4620-bb68-610265e44dea",
+    "vin": "NVX6NN0XUTCXXWN4",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4384,12 +4720,15 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F22%2F52%2F00%2Fd1fe9efe-ba9c-4957-8773-d5db0eaf1a9e%2F40069_P9T_33vnsG4eN4FRNaW4sQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F22%2F52%2F04%2Fabc59353-f4c5-49c3-9e31-12e084698c35%2F40011_EENOxFf4IfZHMeAEx1drWg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F22%2F52%2F11%2Fea8edb1d-b34c-4380-a916-07522a755c20%2F40020_x51lSdr_vrJxOl2Jo6rrOw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F22%2F52%2F00%2Fd1fe9efe-ba9c-4957-8773-d5db0eaf1a9e%2F40069_P9T_33vnsG4eN4FRNaW4sQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F22%2F52%2F04%2Fabc59353-f4c5-49c3-9e31-12e084698c35%2F40011_EENOxFf4IfZHMeAEx1drWg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F22%2F52%2F11%2Fea8edb1d-b34c-4380-a916-07522a755c20%2F40020_x51lSdr_vrJxOl2Jo6rrOw.jpg"
+    ]
   },
   {
     "carId": "0cc0b66c-690b-47b6-b578-a64bcc612c7a",
+    "vin": "VZUUN91X4BZBUEJM",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4422,12 +4761,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F21%2F09%2F28%2F348aa964-f40c-44a3-b7a2-dddbb553fd47%2F94216_o6kNKhlKb470BtidueRT7A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F13%2F18%2F41%2F00a71857-fd1a-4167-ac21-3e6eab8e0c8b%2F93345_Q_BVJm-HuYRmBdUZIT9fbw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F13%2F21%2F02%2F876d0343-ca68-4085-8f6e-1808bbf6c75e%2F60326_WNkIMgVxmZv1EZwq9g3F9g.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F23%2F21%2F09%2F28%2F348aa964-f40c-44a3-b7a2-dddbb553fd47%2F94216_o6kNKhlKb470BtidueRT7A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F13%2F18%2F41%2F00a71857-fd1a-4167-ac21-3e6eab8e0c8b%2F93345_Q_BVJm-HuYRmBdUZIT9fbw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F18%2F13%2F21%2F02%2F876d0343-ca68-4085-8f6e-1808bbf6c75e%2F60326_WNkIMgVxmZv1EZwq9g3F9g.jpg"
+    ]
   },
   {
     "carId": "44cde0de-62b9-42ed-8c1d-57a7714a601b",
+    "vin": "CUG803KZ8MF2RPYF",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4458,12 +4800,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F10%2F35%2F365ba266-2fbb-4273-a073-b0e6132b05f3%2F40063_EoQ9Ji01li0TemkhQna_eQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F10%2F41%2F4cd2919d-94a1-4d8a-b85b-531f918c3ec6%2F35499_ygyl9jJQloxh_oEdyZHPlg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F10%2F51%2F079507eb-f516-4f7f-9ca3-f0597b4cbdcf%2F35469_dewJFQBROXskZ_WN1tugjg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F10%2F35%2F365ba266-2fbb-4273-a073-b0e6132b05f3%2F40063_EoQ9Ji01li0TemkhQna_eQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F10%2F41%2F4cd2919d-94a1-4d8a-b85b-531f918c3ec6%2F35499_ygyl9jJQloxh_oEdyZHPlg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F20%2F10%2F51%2F079507eb-f516-4f7f-9ca3-f0597b4cbdcf%2F35469_dewJFQBROXskZ_WN1tugjg.jpg"
+    ]
   },
   {
     "carId": "a9726216-5535-4ef6-b626-4bb80f647220",
+    "vin": "12NXLCULZMS8LWWL",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4493,13 +4838,16 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F39%2F92e5f971-b1c1-44c1-a79b-e205317409bd%2F35445_P_L8FaMogpq0RW2XxDRH5A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F39%2F346d21d5-c66b-4df0-993d-aed0d11d2d43%2F35453_tt69ZYicwvcGtT9eFC4XJA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F32%2F93ebdcf8-7edd-49f7-84ad-498b3c86447c%2F40048_47OYbamRQHqWeEL8v7fo0A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F33%2F72266b88-ef3a-4b11-acc8-f5eeab4c2919%2F40075_nAVmY_AU1-w_RGFUcpWlNg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F39%2F92e5f971-b1c1-44c1-a79b-e205317409bd%2F35445_P_L8FaMogpq0RW2XxDRH5A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F39%2F346d21d5-c66b-4df0-993d-aed0d11d2d43%2F35453_tt69ZYicwvcGtT9eFC4XJA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F32%2F93ebdcf8-7edd-49f7-84ad-498b3c86447c%2F40048_47OYbamRQHqWeEL8v7fo0A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F55%2F33%2F72266b88-ef3a-4b11-acc8-f5eeab4c2919%2F40075_nAVmY_AU1-w_RGFUcpWlNg.jpg"
+    ]
   },
   {
     "carId": "4728b144-cd24-4a11-ab39-65c98cc2713a",
+    "vin": "X87U31N3J5EC7J58",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4528,12 +4876,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F00%2F09%2F29%2Fbc97f6b1-8da5-4eed-9af6-470a034c2c73%2F79824_JuTtPds5XlNm6g2dWoib4A.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F00%2F12%2F09%2F80f81e1f-bd0d-4cf4-ae8f-31ca2027983e%2F98778_eSd_0AtWEX00opqDQmFNKw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F00%2F12%2F15%2Fe1032e49-8888-4879-93ad-d7ec2a7e7248%2F98749_xcyJtUdR8dV93JoWTKdIjQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F00%2F09%2F29%2Fbc97f6b1-8da5-4eed-9af6-470a034c2c73%2F79824_JuTtPds5XlNm6g2dWoib4A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F00%2F12%2F09%2F80f81e1f-bd0d-4cf4-ae8f-31ca2027983e%2F98778_eSd_0AtWEX00opqDQmFNKw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F30%2F00%2F12%2F15%2Fe1032e49-8888-4879-93ad-d7ec2a7e7248%2F98749_xcyJtUdR8dV93JoWTKdIjQ.jpg"
+    ]
   },
   {
     "carId": "78d23e9a-bafe-476c-a0c9-cb2861fbc3eb",
+    "vin": "BCZN9UPN2RXXZ1H6",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4563,12 +4914,15 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F20%2F13%2F00ad17db-539f-4a74-9ed0-95b6aebd2617%2F40059_X0esZtDd2nK7CuNeFm582w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F21%2F19%2F82e0df6b-5cb0-43b2-a08c-f2e07e270637%2F40032_VNqCEYSEa6EbSqvP4njc_w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F21%2F18%2F98f57623-099d-4701-a3c8-06bf0c9f2583%2F40066_m8hAP7_4EHh4BfD_K_jupg.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F20%2F13%2F00ad17db-539f-4a74-9ed0-95b6aebd2617%2F40059_X0esZtDd2nK7CuNeFm582w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F21%2F19%2F82e0df6b-5cb0-43b2-a08c-f2e07e270637%2F40032_VNqCEYSEa6EbSqvP4njc_w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F13%2F21%2F18%2F98f57623-099d-4701-a3c8-06bf0c9f2583%2F40066_m8hAP7_4EHh4BfD_K_jupg.jpg"
+    ]
   },
   {
     "carId": "279cb311-b10f-4513-92aa-579478361f37",
+    "vin": "FX62ER1UWVVP29XD",
     "attributes": [
       "ABS",
       "CD-\u00C7encer",
@@ -4601,12 +4955,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F13%2F17%2F33%2F13%2F68e5a110-d744-40a7-91ea-28f70c138b37%2F60351_CvgiGZQ7UYRHsG2awGm9SQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F13%2F17%2F33%2F08%2Fa635660d-e69a-49da-930f-9e9bbba9d066%2F60333_OxGvz8MhNY-AC2EAUgFcnA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F13%2F17%2F33%2F17%2F8abd6c11-5f2d-4957-a848-ab2dcffa5d96%2F60333_NpJxnyH3W9c0FaiA2AZ6KA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F13%2F17%2F33%2F13%2F68e5a110-d744-40a7-91ea-28f70c138b37%2F60351_CvgiGZQ7UYRHsG2awGm9SQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F13%2F17%2F33%2F08%2Fa635660d-e69a-49da-930f-9e9bbba9d066%2F60333_OxGvz8MhNY-AC2EAUgFcnA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F13%2F17%2F33%2F17%2F8abd6c11-5f2d-4957-a848-ab2dcffa5d96%2F60333_NpJxnyH3W9c0FaiA2AZ6KA.jpg"
+    ]
   },
   {
     "carId": "bbbd1e97-58b7-4f06-81f4-8dc2c71e3805",
+    "vin": "7BN6NRUAKVL4LXEP",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4639,12 +4996,15 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F14%2F25%2F43%2F812e2df5-19c0-4800-a816-4de2eff9d07e%2F93347_vgbj0KiCV185URyUhtX_MA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F14%2F24%2F31%2F60065995-9052-4b47-a7ef-67a3e98e7637%2F79803_zJSUmjsAv-q9v-GdhXs9Tg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F14%2F25%2F43%2F21e780ad-ec1f-4903-b22c-5975220169e1%2F60353_poL6Yk0gHUnOhiNoMacfOA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F14%2F25%2F43%2F812e2df5-19c0-4800-a816-4de2eff9d07e%2F93347_vgbj0KiCV185URyUhtX_MA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F14%2F24%2F31%2F60065995-9052-4b47-a7ef-67a3e98e7637%2F79803_zJSUmjsAv-q9v-GdhXs9Tg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F27%2F14%2F25%2F43%2F21e780ad-ec1f-4903-b22c-5975220169e1%2F60353_poL6Yk0gHUnOhiNoMacfOA.jpg"
+    ]
   },
   {
     "carId": "eabca5b1-43a1-4401-8085-1aec2d40111c",
+    "vin": "1YZMDYB8351ZLL43",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4674,13 +5034,16 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F18%2F40%2F53450f8e-501c-41ef-932e-29174cb3d54f%2F48205_j13OltrURonaDJ0DI98sAw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F20%2F45%2Fa0b5cad7-c0e1-41a9-886d-1c0f6dfb21c7%2F41501_VqmVE41CG2rheSn6DU_ypA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F19%2F02%2Fe134d679-cc38-4ddb-b46a-8233f2ebe03b%2F48165_C8VUTwaCWRNnCj-VDjU8BQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F19%2F43%2Ff362cfaa-bac1-4821-b4a3-9221eb1e88e8%2F48178_6MxXaBO8EIR4nxn5XXky7Q.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F18%2F40%2F53450f8e-501c-41ef-932e-29174cb3d54f%2F48205_j13OltrURonaDJ0DI98sAw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F20%2F45%2Fa0b5cad7-c0e1-41a9-886d-1c0f6dfb21c7%2F41501_VqmVE41CG2rheSn6DU_ypA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F19%2F02%2Fe134d679-cc38-4ddb-b46a-8233f2ebe03b%2F48165_C8VUTwaCWRNnCj-VDjU8BQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F01%2F27%2F15%2F19%2F43%2Ff362cfaa-bac1-4821-b4a3-9221eb1e88e8%2F48178_6MxXaBO8EIR4nxn5XXky7Q.jpg"
+    ]
   },
   {
     "carId": "a93bf965-020a-4717-be7c-9267aa42148b",
+    "vin": "61JYJZMTXF24LUUU",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4711,12 +5074,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F11%2F51%2F18%2F968ac640-29aa-44ca-be58-cb965e58cb8d%2F82019_JIrm_P7iNeh6vgowl0YuJg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F11%2F51%2F19%2F36882eef-38d7-42e8-9641-af64ab980554%2F81987_63D5413al-hcMM9iDvhYRQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F22%2F07%2F04%2F307fc65a-5163-4d3f-93a1-caf5febc9d9e%2F35429_eOgwWqOBd-e2n4ySk4UxxQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F11%2F51%2F18%2F968ac640-29aa-44ca-be58-cb965e58cb8d%2F82019_JIrm_P7iNeh6vgowl0YuJg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F11%2F51%2F19%2F36882eef-38d7-42e8-9641-af64ab980554%2F81987_63D5413al-hcMM9iDvhYRQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F22%2F07%2F04%2F307fc65a-5163-4d3f-93a1-caf5febc9d9e%2F35429_eOgwWqOBd-e2n4ySk4UxxQ.jpg"
+    ]
   },
   {
     "carId": "492ddaf6-4510-4914-82c3-ce358b6ad4e0",
+    "vin": "137NTH0M1T50WUFY",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4744,12 +5110,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F10%2F17%2Fff5a15f1-eaba-4734-8956-4873056c8a9a%2F40047_noCbC85OavGUwwJQQ8wOow.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F10%2F17%2F459a12f8-a6e1-4303-9bf5-51e12baa9c87%2F40064_9EEOqMBf3CV5uXSojKt6TA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F10%2F16%2F675ab61d-9a29-4a06-af05-5cf388087206%2F40058_ovSOh6sTPUXgCEu64rV-iA.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F10%2F17%2Fff5a15f1-eaba-4734-8956-4873056c8a9a%2F40047_noCbC85OavGUwwJQQ8wOow.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F10%2F17%2F459a12f8-a6e1-4303-9bf5-51e12baa9c87%2F40064_9EEOqMBf3CV5uXSojKt6TA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F21%2F10%2F16%2F675ab61d-9a29-4a06-af05-5cf388087206%2F40058_ovSOh6sTPUXgCEu64rV-iA.jpg"
+    ]
   },
   {
     "carId": "f88a321f-4951-4324-b3f7-cdc884ceb276",
+    "vin": "4PRY35GRPKDPTLZZ",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4782,12 +5151,15 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F19%2F54%2F27%2Fc20e5637-5a8b-4f29-96c7-6c84fde0d83f%2F35466_hOTsQGRStNLublc71gXWBQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F19%2F54%2F28%2Fd48f9a98-7ffb-475c-b674-9538c6328ee4%2F82021_Yeb3NaTZ-mqncQCJTEXLeQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F19%2F54%2F28%2F8c45a631-7fb1-4656-8c13-433f0c7b49a5%2F35466_TW3jJ0fWWFvGAIqMfVqK_g.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F19%2F54%2F27%2Fc20e5637-5a8b-4f29-96c7-6c84fde0d83f%2F35466_hOTsQGRStNLublc71gXWBQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F19%2F54%2F28%2Fd48f9a98-7ffb-475c-b674-9538c6328ee4%2F82021_Yeb3NaTZ-mqncQCJTEXLeQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F19%2F54%2F28%2F8c45a631-7fb1-4656-8c13-433f0c7b49a5%2F35466_TW3jJ0fWWFvGAIqMfVqK_g.jpg"
+    ]
   },
   {
     "carId": "a9eb374f-f9e9-4ae2-82a3-a8c1f53dbbb6",
+    "vin": "NR0DBXBHLETAU2HB",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4817,12 +5189,15 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F17%2F06%2F07%2Ff144d2cb-68f9-4349-ac71-1ca7fd67c3df%2F82148_NGb-WMFmVOCsXquA0zYKnA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F17%2F04%2F34%2Ff0e21705-6093-41fb-bfe7-b80553a072e6%2F35497_ETuf1mxbpRup2A_znXOQJA.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F17%2F04%2F58%2F71acbb08-d952-4eb7-a4ab-81a3e38b57c2%2F35441_yL4YFjn25dZHurSE_zoZTw.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F17%2F06%2F07%2Ff144d2cb-68f9-4349-ac71-1ca7fd67c3df%2F82148_NGb-WMFmVOCsXquA0zYKnA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F17%2F04%2F34%2Ff0e21705-6093-41fb-bfe7-b80553a072e6%2F35497_ETuf1mxbpRup2A_znXOQJA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F11%2F17%2F04%2F58%2F71acbb08-d952-4eb7-a4ab-81a3e38b57c2%2F35441_yL4YFjn25dZHurSE_zoZTw.jpg"
+    ]
   },
   {
     "carId": "3a1c9ac9-7430-4ce8-a1a7-89da12c8bc6a",
+    "vin": "X4A7569PZTUKE07Y",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4854,12 +5229,15 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Mexaniki",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F13%2F06%2F42%2Fdc905764-557a-46fb-91fe-68dc55c5e88e%2F82055_P7ml4oh18VBo8zzU0Hd0Hg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F13%2F06%2F38%2F340221ad-68bf-4ef5-810e-f1708a79a3a2%2F82140_Iul4InDFkMVjJJXXJQ9OHw.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F13%2F06%2F42%2F8143058f-a199-420b-bfd7-3cf7bf68016f%2F81986_g24hJnmksyXxEUlKrlTcTQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F13%2F06%2F42%2Fdc905764-557a-46fb-91fe-68dc55c5e88e%2F82055_P7ml4oh18VBo8zzU0Hd0Hg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F13%2F06%2F38%2F340221ad-68bf-4ef5-810e-f1708a79a3a2%2F82140_Iul4InDFkMVjJJXXJQ9OHw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F13%2F06%2F42%2F8143058f-a199-420b-bfd7-3cf7bf68016f%2F81986_g24hJnmksyXxEUlKrlTcTQ.jpg"
+    ]
   },
   {
     "carId": "de5ceee2-97a5-4767-8a5b-7eb66128665e",
+    "vin": "H9PKK9FU573A8G8Z",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4889,12 +5267,15 @@
     },
     "engineVolume": "2200 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F17%2F26%2F09%2F685ed453-2ea6-4b34-b6a5-b793170c7aef%2F35447_GnAkSg0M_fmawYUEXuSkzg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F17%2F26%2F08%2F04d549ce-2dd1-4a7e-a5ae-49734bae9711%2F35450_KPyYaMkKsqS4eJ5Izp3Mvg.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F17%2F26%2F09%2F6b568527-d762-4060-9693-a33b75e71c8e%2F35459_qJvHxgVkzjK4DTd51u5xbQ.jpg"]
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F17%2F26%2F09%2F685ed453-2ea6-4b34-b6a5-b793170c7aef%2F35447_GnAkSg0M_fmawYUEXuSkzg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F17%2F26%2F08%2F04d549ce-2dd1-4a7e-a5ae-49734bae9711%2F35450_KPyYaMkKsqS4eJ5Izp3Mvg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F17%2F26%2F09%2F6b568527-d762-4060-9693-a33b75e71c8e%2F35459_qJvHxgVkzjK4DTd51u5xbQ.jpg"
+    ]
   },
   {
     "carId": "f3f8f2bc-ef61-47f0-9ea6-e08b822dc9dc",
+    "vin": "D1UBXNCZL8Z3B3ML",
     "attributes": [
       "Y\u00FCng\u00FCl lehimli diskl\u0259r",
       "ABS",
@@ -4928,9 +5309,365 @@
     },
     "engineVolume": "2000 sm3",
     "transmission": "Avtomat",
-    "photos":["https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F16%2F29%2F08%2Ff719df57-4244-4009-92d8-c7e6400374fa%2F40055_HLrT3j4CREEajonp5ldGtQ.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F16%2F29%2F10%2F57688783-924d-4f39-a7b9-ec903adc8f2a%2F82143_usH3XXi76-ai4cX3YGnK1w.jpg",
-              "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F16%2F29%2F09%2F313dcfd2-d78d-45cd-a5d5-eb2bd997b9f1%2F82004_Nt3BTiAVtSZf0fEznfOpEg.jpg"]
-  }
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F16%2F29%2F08%2Ff719df57-4244-4009-92d8-c7e6400374fa%2F40055_HLrT3j4CREEajonp5ldGtQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F16%2F29%2F10%2F57688783-924d-4f39-a7b9-ec903adc8f2a%2F82143_usH3XXi76-ai4cX3YGnK1w.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F23%2F16%2F29%2F09%2F313dcfd2-d78d-45cd-a5d5-eb2bd997b9f1%2F82004_Nt3BTiAVtSZf0fEznfOpEg.jpg"
+    ]
+  },
+ 
+  {
+    "carId": "bfd3ee21-4981-4e28-8989-6be952eaeeff",
+    "vin": "DS5LZAJWNZD5PJDJ",
+    "attributes": [
+      "Y\u00FCng\u00FCl lehimli diskl\u0259r",
+      "ABS",
+      "Lyuk",
+      "Ya\u011F\u0131\u015F sensoru",
+      "M\u0259rk\u0259zi qapanma",
+      "Park radar\u0131",
+      "Kondisioner",
+      "Oturacaqlar\u0131n isidilm\u0259si",
+      "D\u0259ri salon",
+      "Ksenon lampalar"
+    ],
+    "year": "2004",
+    "category": "Sedan",
+    "maker": "BMW",
+    "model": "525",
+    "color": "Boz",
+    "power": "218 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "161500 km",
+    "gear": "Arxa",
+    "newCar": "Xeyr",
+    "price": "$ 22536",
+    "additional": "\u041C-\u043F\u0430\u043A\u0435\u0442. \u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0442\u0430\u0446\u0438\u044F. \u041F\u043E\u043B\u043D\u044B\u0439 \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043F\u0430\u043A\u0435\u0442 \u0441 \u043F\u0430\u043C\u044F\u0442\u044C\u044E, \u0441\u0432\u043E\u0440\u0430\u0447\u0438\u0432\u0430\u0435\u043C\u044B\u0435 \u0431\u043E\u043A\u043E\u0432\u044B\u0435 \u0437\u0435\u0440\u043A\u0430\u043B\u0430, Bluetooth, \u0441\u0438\u0441\u0442\u0435\u043C\u0430 DSC, HI-FI Professional, \u0022\u041C\u0022 \u043C\u0443\u043B\u044C\u0442\u0438-\u0440\u0443\u043B\u044C, \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0437\u0430\u0434\u043D\u044F\u044F \u0448\u0442\u043E\u0440\u043A\u0430, \u0430\u043D\u0442\u0438-\u043A\u0440\u044B\u043B\u043E \u0022Schnitzer\u0022.",
+    "seller": {
+      "name": "\u0424\u0443\u0430\u0434",
+      "phone": [
+        "(077) 333-88-23"
+      ]
+    },
+    "engineVolume": "2500 sm3",
+    "transmission": "Avtomat",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F12%2F50%2F39%2F794803d2-83fb-4e35-abbc-585cedaf231b%2F40044_Nzs1x11W4ACAcXqhbIwyCQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F12%2F50%2F39%2Fedcd10d1-2470-4e38-9c65-ad3242aa9ac0%2F40021_gf_Pa6q6qb8he0PW1ynBrw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F12%2F50%2F39%2Fc9cc5bc6-52ef-449f-aa52-292245398fd2%2F40075_iNiUKdk5idizfMilmt43CA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F12%2F50%2F39%2Fbeb374bd-d6f4-4e47-808a-2b562bd70a36%2F81987_R5bkWgzNTky9X4b_WyZecQ.jpg"
+
+    ]
+  },
+  {
+    "carId": "95216497-a9bd-4027-ade2-03cbf3d5b7eb",
+    "vin": "K3W4EX5FZNJC80RD",
+    "attributes": [
+      "ABS",
+      "Lyuk",
+      "M\u0259rk\u0259zi qapanma",
+      "Kondisioner",
+      "Ksenon lampalar"
+    ],
+    "year": "2019",
+    "category": "Offroader / SUV",
+    "maker": "BMW",
+    "model": "X7",
+    "color": "A\u011F",
+    "power": "340 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "86000 km",
+    "gear": "Arxa",
+    "newCar": "Xeyr",
+    "price": "$ 79000",
+    "additional": "Maşın servisdən alınıb, əla vəziyyətdədir. Qarajda saxlanılıb, rəsmi servisdə xidmət olunub. 2024 cü ilə qədər qarantiyası mövcuddur. Xahiş olunur ciddi fikri olanlar zəng etsin.",
+    "seller": {
+      "name": "Saleh",
+      "phone": [
+        "(077) 600-00-50"
+      
+      ]
+    },
+    "engineVolume": "3000 sm3",
+    "transmission": "Avtomat",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F12%2F06%2F02%2Fc7368aa8-3602-4b4d-9d49-09b635bf921a%2F79837_JUWsuvukFnBUrWcXXWBskw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F12%2F06%2F02%2F7d0d50b1-5df0-4c88-acf4-0ac787041437%2F93340_XgSrJcMToUi2IekKnLLUkA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F03%2F12%2F05%2F12%2F33220aaf-a5b5-4ba5-b4be-1dd1e8eabf20%2F99021_VwT5CjeMUbuGGI-Bw8y8LQ.jpg"
+    ]
+  },
+  {
+    "carId": "612df2b7-b0eb-4073-a7b7-364ef739a6af",
+    "vin": "GJSZ6252PPKB1LNB",
+    "attributes": [
+      "Y\u00FCng\u00FCl lehimli diskl\u0259r",
+      "ABS",
+      "CD-\u00C7encer",
+      "Ya\u011F\u0131\u015F sensoru",
+      "Kondisioner"
+    ],
+    "year": "2023",
+    "category": "Offroader / SUV",
+    "maker": "BMW",
+    "model": "XM",
+    "color": "Boz",
+    "power": "653 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "1300 km",
+    "gear": "Arxa",
+    "newCar": "Xeyr",
+    "price": "$ 270000",
+    "additional": "Tecili Satilir",
+    "seller": {
+      "name": "Rauf",
+      "phone": [
+        "(055) 291-42-21"
+      ]
+    },
+    "engineVolume": "4400 sm3",
+    "transmission": "Avtomat",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F19%2F19%2F52%2F40%2F60a0f564-ab10-4bd8-b816-8c4bd39bb3f1%2F40793_B2AeNymLfy1RrqY9h7F3IQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F19%2F19%2F52%2F33%2F3b539d34-4e73-4714-98c4-a34cbff01002%2F60347_5PUlrOrkukJkvzIJv0ufCA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F06%2F19%2F19%2F52%2F34%2Ff2d16cd2-22d9-4df5-85dd-42eb1ea5bcaf%2F60321_nej7sOMI8mP2CM-O0LSRbg.jpg"
+    ]
+  },
   
+  {
+    "carId": "7e0e9e47-0073-4441-8b8c-8d808434e7f1",
+    "vin": "206U88C9SW5SW553",
+    "attributes": [
+      "M\u0259rk\u0259zi qapanma"
+    ],
+    "year": "2012",
+    "category": "Offroader / SUV",
+    "maker": "Mitsubishi",
+    "model": "Pajero",
+    "color": "Qara",
+    "power": "202 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "98300 km",
+    "gear": "Arxa",
+    "newCar": "Xeyr",
+    "price": "$ 20000",
+    "additional": "mawin ela veziyyetdedi. qarajda saxlanilib OZ mawinimdir",
+    "seller": {
+      "name": "Rashad",
+      "phone": [
+        "(055) 524-00-35"
+      ]
+    },
+    "engineVolume": "2300 sm3",
+    "transmission": "Mexaniki",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F04%2F13%2F22%2F02%2Ffd82014c-33ee-4e25-8f79-098f824be99a%2F40020_R9cx_N2pQw48bBGINypkFA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F04%2F13%2F22%2F38%2Fd9a38c3c-8e47-47c6-b9f7-16a969a631d0%2F82146_LoFN6tUXfnPKg_LV02bxbA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F04%2F13%2F22%2F16%2F9afd5f94-36f2-462d-b1ec-411df2609e9c%2F35448_zuawgEAt4iQQJW4uc13DzA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F04%2F13%2F22%2F41%2Fba82ae87-d1ba-490e-b972-c1a131e95256%2F82098_AfdwHXgWCW4qieftpLfb6g.jpg"
+    ]
+  },
+  
+  {
+    "carId": "aa53b727-8dba-489c-ad39-a5174a7f56fa",
+    "vin": "CD33C4U394RU1L5T",
+    "attributes": [
+      "Y\u00FCng\u00FCl lehimli diskl\u0259r",
+      "ABS",
+      "CD-\u00C7encer",
+      "Ya\u011F\u0131\u015F sensoru",
+      "M\u0259rk\u0259zi qapanma",
+      "Kondisioner",
+      "Ksenon lampalar"
+    ],
+    "year": "2023",
+    "category": "Sedan",
+    "maker": "Land Rover",
+    "model": "Range Rover",
+    "color": "Qara",
+    "power": "360 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "200 km",
+    "gear": "Arxa",
+    "newCar": "Xeyr",
+    "price": "$ 225000",
+    "additional": "Range Rover HSE, 360 ag.",
+    "seller": {
+      "name": "Vahid",
+      "phone": [
+        "(055) 712-39-07"
+      ]
+    },
+    "engineVolume": "3000 sm3",
+    "transmission": "Avtomat",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F15%2F35%2F35%2F517f9741-a3ba-4cdd-85da-32bfb9213cdc%2F35443_-q9ObWxTkqteGXNhc2q3Jg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F15%2F35%2F36%2Fccbf5b58-fa7e-40d4-90fc-f53d2c720a6b%2F35499_987o25uwCkaQp_bm8_nOYg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F15%2F35%2F34%2F25995632-3ec1-4994-8d53-77b7f6854a58%2F35508_hGxt8ueR5rnPTSrc-DHlcA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F15%2F35%2F28%2F3b3677ab-b002-48c3-aacf-fcc6707d9525%2F82101_h-xHcp7aqKbKB3w1Xgxo4A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F15%2F35%2F35%2F08fbcd60-3717-46fe-bc4d-d8f8915d990c%2F35472_pGVAC1cEe9nVAB1UwrB4yQ.jpg"
+    ]
+  },
+  
+  
+  {
+    "carId": "21a70b73-a7bd-4b6e-a542-b1781da719c0",
+    "vin": "JEPRW5MKK2DU6JUR",
+    "attributes": [
+      "Y\u00FCng\u00FCl lehimli diskl\u0259r",
+      "ABS",
+      "Lyuk",
+      "M\u0259rk\u0259zi qapanma",
+      "Park radar\u0131",
+      "Kondisioner",
+      "Oturacaqlar\u0131n isidilm\u0259si",
+      "D\u0259ri salon",
+      "Ksenon lampalar"
+    ],
+    "year": "2022",
+    "category": "Offroader / SUV",
+    "maker": "BMW",
+    "model": "X5",
+    "color": "Qara",
+    "power": "218 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "32000 km",
+    "gear": "\u00D6n",
+    "newCar": "Xeyr",
+    "price": "$ 79500",
+    "additional": "BMW X5 xDrive25d! Цвет - Black Saphire Metallic ",
+    "seller": {
+      "name": "T\u0259v\u0259kk\u00FCl",
+      "phone": [
+        "(050) 641-03-04"
+      ]
+    },
+    "engineVolume": "1600 sm3",
+    "transmission": "Avtomat",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F30%2F16%2F50%2F34%2F290ab390-5edc-4f8c-ad96-90c8abf90f33%2F82004_Bs5lqvyMfSYLFOuiA0u-Uw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F30%2F16%2F50%2F35%2F46a151c1-7863-4ac4-8a1a-657892cfe2a4%2F82102_a5-xA8PuD1uHb5Hv2p7rAg.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F30%2F16%2F50%2F36%2Fdfe3851e-0d79-4292-ad11-26652d5e5d2c%2F82037_huW8pudXcHlw2ZXUqYED9A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F30%2F16%2F50%2F36%2F01b2c2f6-5175-418d-ab5d-66c3c4da058d%2F82039_iptFGQPVaYFwggeTTnYBrA.jpg"
+
+    ]
+  },
+  {
+    "carId": "d8ba4435-eec8-4831-9aba-961dda6c9f59",
+    "vin": "GM70FNHR2DRCHH4C",
+    "attributes": [
+      "Y\u00FCng\u00FCl lehimli diskl\u0259r",
+      "ABS",
+      "CD-\u00C7encer",
+      "Lyuk",
+      "Ya\u011F\u0131\u015F sensoru",
+      "M\u0259rk\u0259zi qapanma",
+      "Park radar\u0131",
+      "Kondisioner",
+      "Oturacaqlar\u0131n isidilm\u0259si",
+      "D\u0259ri salon"
+    ],
+    "year": "2022",
+    "category": "Sedan",
+    "maker": "Mercedes",
+    "model": "C 350",
+    "color": "Boz",
+    "power": "313 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "1400 km",
+    "gear": "\u00D6n",
+    "newCar": "Xeyr",
+    "price": "$ 110000",
+    "additional": "2 il zəmanət yürüşdən asılı olmayaraq",
+    "seller": {
+      "name": "HACI",
+      "phone": [
+        "(070) 853-48-76"
+      ]
+    },
+    "engineVolume": "2000 sm3",
+    "transmission": "Avtomat",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F12%2F30%2F01%2Fee159488-08ee-4893-a7fe-085d4185e119%2F82095_HHnBXpUvVugJMAZ1VMi9uQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F12%2F30%2F05%2F0955ee1b-0133-496c-8d5a-3561958d7f9e%2F35458_BwxyZRQC_9nieVc2pAoo-Q.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F12%2F30%2F01%2F809ae407-c0fa-4702-a320-ceb2f318b012%2F81985_0Xrc-uWdzXVr9CGiYHQNIA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F12%2F29%2F59%2F8c06b8f0-1e55-4688-8c32-faf4dae969ad%2F82098_L5VfnortiDsLL_kM4SI5aw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F26%2F12%2F30%2F02%2Fffae5f23-1046-423f-b1f5-bcbc7dc04d71%2F35461_8k6Rp-6MbmrefXkA_ICgyA.jpg"
+    ]
+  },
+  {
+    "carId": "16db2832-7055-46b7-8f39-91f1978dbb63",
+    "vin": "2TZ9089CEREJ11S6",
+    "attributes": [
+      "Y\u00FCng\u00FCl lehimli diskl\u0259r",
+      "ABS",
+      "Ya\u011F\u0131\u015F sensoru",
+      "Kondisioner"
+    ],
+    "year": "2018",
+    "category": "Sedan",
+    "maker": "LADA (VAZ)",
+    "model": "Priora",
+    "color": "Boz",
+    "power": "106 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "57600 km",
+    "gear": "\u00D6n",
+    "newCar": "Xeyr",
+    "price": "$ 11000",
+    "additional": "Masin tam yigilib. Tam ideal. Avtomobildə heç bir problem yoxdur. Heç bir xerc teleb etmir mator karopka xadovoy sistemi idealdır.",
+    "seller": {
+      "name": "Davud",
+      "phone": [
+        "(050) 220-60-70"
+      ]
+    },
+    "engineVolume": "1600 sm3",
+    "transmission": "Mexaniki",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F12%2F21%2F53%2F71b1c619-219c-4315-a5f4-4fde2f3404de%2F82050_ju4Kh31htfftEu-GECtKrw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F12%2F21%2F52%2F76527f75-fbdd-4ed6-bd2b-3d2874e7a91a%2F82047_MPD4dUCQOw-oMfAIurt6ZA.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F07%2F24%2F12%2F21%2F54%2F9e969b6c-1d72-4e4a-ba3a-8740d161104a%2F82129_NsNldmcvVSFYmRxWLh8J6Q.jpg"
+    ]
+  },
+  {
+    "carId": "4ae547ea-8e62-48e7-9304-6595d00c9a5e",
+    "vin": "F78U26TDFG1JAJ9R",
+    "attributes": [
+      "Y\u00FCng\u00FCl lehimli diskl\u0259r",
+      "ABS",
+      "Lyuk",
+      "Ya\u011F\u0131\u015F sensoru",
+      "M\u0259rk\u0259zi qapanma",
+      "Kondisioner",
+      "D\u0259ri salon",
+      "Ksenon lampalar"
+    ],
+    "year": "2004",
+    "category": "Sedan",
+    "maker": "LADA (VAZ)",
+    "model": "Niva",
+    "color": "G\u00FCm\u00FC\u015F\u00FC",
+    "power": "80 a.g.",
+    "petroleum": "Benzin",
+    "mileage": "33000 km",
+    "gear": "Tam",
+    "newCar": "Xeyr",
+    "price": "$ 10000",
+    "additional": "Masin 3-cu mashin kimi istifade olunub ve garaj seraitinde saxlanilir .Elave olunan her bir aksesuar originaldir ve yalniz 95 benzin idare olunub .Xahish olunur yalniz real alicilar elage saxlasin ",
+    "seller": {
+      "name": "Roman",
+      "phone": [
+        "(051) 432-00-93"
+      ]
+    },
+    "engineVolume": "1700 sm3",
+    "transmission": "Mexaniki",
+    "photos": [
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F01%2F15%2F21%2F36%2F7281c925-6edf-4dcc-9438-f9c012802d98%2F40065_YMbvGA9rGrriDUF0R75R2A.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F01%2F15%2F22%2F08%2F35b413e8-cd94-41e8-b1ac-e3a299593566%2F35501_O-3oTz1y9AtFkuR-X_GzCQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F01%2F15%2F22%2F09%2Fd095fdf7-4648-45f5-b2b5-84b3e9413c60%2F35454_ocojetaVl3YBXepFRy97Fw.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F01%2F15%2F22%2F09%2F60540815-4a53-4aaf-a50c-002852c608ad%2F35445_BPc32ncGi-uDrs1-DZ82XQ.jpg",
+      "https://turbo.azstatic.com/uploads/full/2023%2F08%2F01%2F15%2F21%2F51%2Fe219510a-ff5a-485f-a026-85fe25d67904%2F82120_yhQv1Qzm2mw-SBeXM229OA.jpg"
+    ]
+  }
 ]
